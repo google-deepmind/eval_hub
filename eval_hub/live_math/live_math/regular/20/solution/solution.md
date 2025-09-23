@@ -1,0 +1,1 @@
+Since the two cones have the same basis, their heights $v_1$ and $v_2$ are in the same ratio as the volumes of the cones. Let $c$ be the hypotenuse of the original triangle and $a, b$ are the legs of the triangle. From Euclid's theorem, we get $c \cdot v_1 = a^2$ and $c \cdot v_2 = b^2$. We put these equations into the relation and obtain $\frac{a}{b} = 3$.

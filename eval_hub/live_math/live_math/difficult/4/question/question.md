@@ -1,0 +1,1 @@
+Regular hexagons $AB_1C_1D_1E_1F_1$, $AB_2C_2D_2E_2F_2$ and $AB_3C_3D_3E_3F_3$ are given. The oriented angles $B_1AC_1$, $B_2AC_2$, $B_3AC_3$ are all oriented in the same direction. We know that the area of the triangle $B_1B_2B_3$ is 17. Find the sum of areas of the triangles $C_1C_2C_3$, $D_1D_2D_3$, $E_1E_2E_3$, $F_1F_2F_3$.

@@ -1,0 +1,1 @@
+Count the number of sequences of length 18 consisting only of numbers 0 and 1, where sequence "000000000" appears as a subsequence. Sequence s is a subsequence of sequence t if s can be obtained by deletion of several (possibly zero) elements from t.

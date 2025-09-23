@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 1,
+    "comment": "There is an error in the inductive assumption $S(n) \\geq 1$.",
+    "types_of_mistakes": "11"
+}

@@ -1,0 +1,7 @@
+Each of the 5 questions was answered correctly by $k_i$ participants, and each such person received $12 - k_i$ points. The total number of points awarded for question $i$ is $k_i(12 - k_i)$, so the total score over all questions is $\sum_{i=1}^5 (12k_i - k_i^2) = 116$. Suppose Bernadette answered all 5 questions correctly. Then she received $\sum_{i=1}^5 (12 - k_i) = 60 - \sum k_i$ points. Since her score was 32, we get $\sum k_i = 28$. Substituting into the total score expression gives $12 \cdot 28 - \sum k_i^2 = 116$, so $\sum k_i^2 = 220$. It is not possible to find integers $k_1, \dots, k_5$ satisfying both $\sum k_i = 28$ and $\sum k_i^2 = 220$, one can check it by writing the following R code:
+
+candidates <- permutations(n = 10, r = 5, v = 1:10, repeats.allowed = TRUE)
+retults <- candidates[rowSums(candidates) == 28 & rowSums(candidates^2) == 220,]
+print(results)
+
+Therefore, Bernadette must have answered less than 5 questions correctly. Assume she answered 4 questions correctly in the following setup. Let $(k_1, k_2, k_3, k_4, k_5) = (1, 1, 9, 4, 5)$. Then the total number of points is $11 + 11 + 3 \cdot 9 + 8 \cdot 4 + 7 \cdot 5 = 116$, so the first condition is satisfied. Bernadette could have got the sequence of points $(11, 11, 3, 7, 0)$, which gives 32 in total, so the second condition is satisfied too. So the biggest possible number of questions that she might have answered correctly is 4.

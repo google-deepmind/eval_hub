@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 7,
+    "comment": "The model refers to the Polya urn model. It is correct, one can find the theory under this name. However, the form of the formula used by the model isn't  standard and it is even not easy to find it (I finally found it in some paper). The answer is not simplified.",
+    "types_of_mistakes": "6,10"
+}

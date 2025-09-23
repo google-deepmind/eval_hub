@@ -1,0 +1,1 @@
+Let $a_0, a_1, ...$ be an infinite sequence of integers, where $a_0 = 0$ and each term $a_n$, where $n>0$, is defined by $a_n = a_{n-1}+3n^2-5n+1$. Find the value of $a_{100}$.

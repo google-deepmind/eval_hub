@@ -1,0 +1,3 @@
+We can reformulate the conditions are points 1, 3, and 13 have odd degrees and points 2, 10, and 15 have even degrees. If all points have assigned the parity of their degree then there is one way to assign edges if the number of odd points is even and zero ways otherwise. Therefore we need to sum through all possibilities of choosing some odd number of points from the remaining 14 points. Each such choice corresponds to exactly one way of adding edges. Final expression is $14 \choose 1$ + $14 \choose 3$ + $14 \choose 5$ + $14 \choose 7$ + $14 \choose 9$ + $14 \choose 11$ + $14 \choose 13$ = 8192
+
+Alternatively the answer is just 2^{13}, the number of odd-sized subsets.

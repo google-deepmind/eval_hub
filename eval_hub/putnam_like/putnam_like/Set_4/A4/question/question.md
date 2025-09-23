@@ -1,0 +1,2 @@
+Show that any prime divisor $p>2$ of the number $a^{2^k}+b^{2^k}$ is of the form $p=2^{d}m+1$, where
+ $d\geq k+1$, $m$ is an odd positive integer, and $k$, $a$ and $b$ are positive integers with $\gcd(a,b)=1$.

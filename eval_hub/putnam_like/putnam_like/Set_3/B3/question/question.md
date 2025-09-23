@@ -1,0 +1,1 @@
+Investigate if the integral $\int_0^\infty \cos (x)\cos (x^2)\,dx$ is convergent.

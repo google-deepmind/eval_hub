@@ -1,0 +1,1 @@
+Count the number of integer sequences $a_0,a_1,a_2,a_3,a_4,a_5$, where $a_0 = 0$, $a_5 = 3$, and $\forall i: 0 < i \leq 5$ $|a_i - a_{i-1}| \leq 1$.

@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 2,
+    "comment": "The model claims that (infinity)*(zero)=(zero) in the limit, which is not correct. It is hard to see how to fix this solution. Two points for good idea ti multiply by e^{g(x)}",
+    "types_of_mistakes": "4"
+}

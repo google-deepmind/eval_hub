@@ -1,0 +1,1 @@
+Let $d, x \in \mathbb{N}$ such that $d=gcd(x,385)$ and $x + d$ divides $385d$. Among all tuples $(d, x)$ satisfying the above properties, find the one with the largest value of $d$ and if there is more than one such tuple, choose the one with the lowest value of $x$. As the answer write the value of $x$ in the found tuple.

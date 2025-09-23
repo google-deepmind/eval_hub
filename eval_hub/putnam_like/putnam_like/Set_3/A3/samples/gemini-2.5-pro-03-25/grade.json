@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "gemini pro",
+    "grade": 8,
+    "comment": "The model has used the non-standard (even not easy to be found) formula from Polya urn model.",
+    "types_of_mistakes": "6"
+}

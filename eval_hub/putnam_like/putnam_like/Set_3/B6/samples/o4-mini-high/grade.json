@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 0,
+    "comment": "In the computation of the trace of $A^2$ the model forgot the term $A_{2n,2n}=(n-1)^2$. The correct trace of $A^2$ is positive so there is no contradiciton.",
+    "types_of_mistakes": "8"
+}

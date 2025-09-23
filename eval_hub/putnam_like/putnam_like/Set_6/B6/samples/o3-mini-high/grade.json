@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 0,
+    "comment": "Applying LCLT is not so easy. Many details are ommited. To use this theorem we need to know that $S_n/n \\Rightarrow N(0,1)$, but it is not true.",
+    "types_of_mistakes": "5,7,11"
+}

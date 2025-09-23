@@ -1,0 +1,1 @@
+There is a 10x10 grid. We color each cell black or white color in such a way that no two cells adjacent diagonally have the same color. How many such colorings are there?

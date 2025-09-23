@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "gemini pro",
+    "grade": 5,
+    "comment": "The necessary condition is found correctly. However, then the model apply theorem that does not exist to finish at n=2. Firstly, there is no theorem of Ryser from 1950. There is a theorem of Ryser about 'symmetric block design' from 1997 but it has nothing to do in this problem.",
+    "types_of_mistakes": "5"
+}

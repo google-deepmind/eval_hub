@@ -1,0 +1,1 @@
+We consider all 4-tuples of real positive numbers $(a,b,c,d)$ with the property that $abcd = 1$. Determine the smallest possible value of $(a+d)(1+bc)+(b+c)(1+ad)$.

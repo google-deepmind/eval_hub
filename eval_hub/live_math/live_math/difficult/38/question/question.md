@@ -1,0 +1,1 @@
+In convex quadrilateral $ABCD$ we have $AB = AD = 9$, $BC = CD = 40$, $AC = 41$. Let $M$ be the middle of $AC$. Denote its reflections along $AB$, $BC$, $CD$, $DA$ by $P$, $Q$, $R$ and $S$, respectively. Determine the area of the quadrilateral $PQRS$.

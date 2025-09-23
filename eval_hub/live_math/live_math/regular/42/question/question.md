@@ -1,0 +1,1 @@
+How many positive divisors of $10^{100}$ are smaller than $10^{50}$?

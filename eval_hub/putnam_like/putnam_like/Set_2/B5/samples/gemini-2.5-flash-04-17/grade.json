@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "gemini flash",
+    "grade": 2,
+    "comment": "The model tries to solve the task in various ways, using advanced theories without explanation or citation",
+    "types_of_mistakes": "5;7;11"
+}

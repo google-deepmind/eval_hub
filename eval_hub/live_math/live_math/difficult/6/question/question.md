@@ -1,0 +1,1 @@
+Find the minimal number $n$ with the following property: If we colour every positive integer into one of ten colours, there will be ten distinct numbers of the same colour with the sum smaller than $n$.

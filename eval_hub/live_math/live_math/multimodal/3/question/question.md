@@ -1,0 +1,1 @@
+Some number of pieces, isomorphic to the one shown in the figure, were placed in a square of side of length 10. The interiors of different pieces do not intersect. Find the maximal possible sum of areas of all the placed pieces.

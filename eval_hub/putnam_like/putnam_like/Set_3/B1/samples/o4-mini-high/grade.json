@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 4,
+    "comment": "It is not shown that each term appears is result with coeff. ${n-1 \\choose k}$. The computation of the second sum in the final step should be done. It is not well-known identity.",
+    "types_of_mistakes": "7.11"
+}

@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 5,
+    "comment": "All reasonings in the solution are correct but it is not finished. For even k there is no prove of divisibility. The method of this solution cannot be expanded to cover the case of even k. ",
+    "types_of_mistakes": "11"
+}

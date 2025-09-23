@@ -1,0 +1,2 @@
+First, notice that the side of the square has length $12\sqrt{2}$.
+ We can arrange all the segments $KL$, $LM$, $MN$, $NK$ together into a polyline, where each segment goes in the top-right direction. That polyline will then go from a point with coordinates $(0,0)$ to the point with coordinates $(24\sqrt{2},24\sqrt{2})$. Hence the length of the polyline is at least $48$. We attain equality e.g. for $K$, $L$, $M$, $N$ in the middles of the sides.

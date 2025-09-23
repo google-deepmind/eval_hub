@@ -1,0 +1,1 @@
+We want to fill the table in the picture with numbers $1, 2, 3, \dots, 20$. Each number can be used at most once and the number in each cell should be smaller than the number in the cell directly below and directly to the right. In how many ways can we fill the table?

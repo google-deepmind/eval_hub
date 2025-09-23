@@ -1,0 +1,1 @@
+Two players are playing a game. They take turns. In one turn, each player rolls a 6-sided dice and moves by the number rolled in the direction from $S$ to $F$. Currently, they are standing on the red field. What is the probability that both players will stop at the blue field? Write the answer multiplied by $6^{20}$.

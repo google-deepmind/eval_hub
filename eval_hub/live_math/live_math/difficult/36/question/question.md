@@ -1,0 +1,1 @@
+Oliver asked Jennifer for her phone number. She told him that her phone number is the 4th power of a natural number $n$ that is divisible by 7 and the sum of the digits of $n$ is 6. Moreover, if one orders the digits of her number increasingly, then the result is the sequence 0, 1, 1, 2, 2, 5, 5, 5, 6. What is the number of Jennifer?

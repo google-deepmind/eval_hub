@@ -1,0 +1,1 @@
+$p_1, p_2, p_3, ...$ is an infinite sequence of odd prime numbers sorted in an increasing order. $a_1, a_2, a_3, ...$ is an infinite sequence of coefficients, where each $a_i \in \{-1, 0, 1\}$. Find minimum value of $\sum_{i=1}^{\infty}|a_i|$, if $\sum_{i=1}^{\infty}a_i p_i = 2023$.

@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 0,
+    "comment": "Proof that the sequence is increasing based on the assumption that it is increasing. Then to show that the limit is <=7/4 the model assumes that the sequence is <7/4.",
+    "types_of_mistakes": "4"
+}

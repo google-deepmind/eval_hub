@@ -1,0 +1,1 @@
+The points $A$, $B$, $C$, $D$ lie on a line in this order, and $AB = 15$, $BC = 6$, $CD = 14$. A point $E$ on the plane is given such that $\angle EBD = 20^\circ$ and $\angle EDB = 70^\circ$. The ratio $\frac{EA}{EC}$ equals $\frac{p}{q}$ for some coprime positive integers $p$ and $q$. Find $p+q$.

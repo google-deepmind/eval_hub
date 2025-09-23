@@ -1,0 +1,1 @@
+A tree is an unoriented connected acyclic graph. There are 12 vertices, denoted by $1,2,..,12$. Count the number of trees with these 12 vertices, such that vertex 1 has degree 3 and vertex 2 has degree 5?

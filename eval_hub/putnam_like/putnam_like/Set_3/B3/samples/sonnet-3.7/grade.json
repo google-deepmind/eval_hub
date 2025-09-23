@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 2,
+    "comment": "The model use some facts about 'oscilatory integrals' that are not known. It doesn't give any references, but the other model use similar idea so it is correct but require a full computation.",
+    "types_of_mistakes": "6.11"
+}

@@ -1,0 +1,1 @@
+Find the largest positive integer $n$ with the following property: whenever for integers $a$, $b$, $c$, $d$, $e$ the number $a^6+b^6+c^6+d^6+e^6$ is divisible by $7$, the number $abcde$ is divisible by $n$.

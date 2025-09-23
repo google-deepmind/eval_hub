@@ -1,0 +1,1 @@
+If we number all diagonals with numbers from 1 to 19, then we get two independent subproblems. One is all the even diagonals and the second is all the odd diagonals. Then we can color each set of diagonals in two ways, because if we assign some particular cell with color, then the rest is uniquely determined. To compose the subproblems we multiply the number of solutions.

@@ -1,0 +1,3 @@
+Call the quadrilateral $ABCD$. Without loss of generality we can assume that the line mentioned intersects the side $AD$ in the point $K$, the side $BC$ in the point $L$, and the perimeters of the quadrilaterals $ABLK$ and $CDKL$ are $37$ and $62$, respectively. Then the perimeter of $ABCD$ is equal to
+$$37 + 62 - 2 |KL|$$
+By triangle inequality, $|KL|$ is smaller than half of the perimeter of $ABLK$, hence smaller than $\frac{37}{2}$. This means that the perimeter of $ABCD$ is larger than $62$, so at least $63$. We get equality if $ABCD$ is a rectangle with $AB = 18$, $BC = 13.5$.

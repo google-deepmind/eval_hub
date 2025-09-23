@@ -1,0 +1,1 @@
+Fix any $p \geq 2$. Let $\mathbb{O}$ denote the set of all positive integers whose all digits in base $p$ are ones. Find all polynomials $f$ with real coefficients such that $f(\mathbb{O}) \subset \mathbb{O}$.

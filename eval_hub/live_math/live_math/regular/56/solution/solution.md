@@ -1,0 +1,1 @@
+Let $2x$ be the length of the shorter diagonal and $2y$ the length of the longer diagonal. Then $2x+2y = 24$, so $x+y = 12$. We know that the diagonals of a rhombus are orthogonal, thus $x^2 + y^2 = 74$. Substituting $y = 12 - x$, we obtain $x^2 + (12-x)^2 = 74$. Solving this equation and keeping in mind that $y>x$, we obtain $x = 5$. So the length of the shorter diagonal is 10.

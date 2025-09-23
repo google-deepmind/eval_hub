@@ -1,0 +1,2 @@
+From the conditions we have that $a\ge 2^2 \cdot 5^5 = 12500$ and $c\ge 2^5\cdot 5^2 = 800$. Moreover, the conditions mean that $2^5$ and $5^5$ both divide $b$, hence $b\ge 2^5\cdot 5^5 = 100000$. One sees immediately that $a = 12500$, $b=800$, $c=100000$ satisfy the conditions. Therefore the minimal possible sum $a+b+c$ is
+$$12500+800+100000 = 113300.$$

@@ -1,0 +1,1 @@
+Let $m,n$ be positive integers such that the last digit of $m+n$ equals to $2$ and the last digit of $m \cdot n$ equals to $7$. Calculate the last digit of $m^{1000}+n^{1000}$.

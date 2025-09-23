@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 1,
+    "comment": "There is only an idea of a correct solution, in particular - the crucial step that f(x) is a quotient of two polynomials in Z[x] is not shown.",
+    "types_of_mistakes": "7"
+}

@@ -1,0 +1,1 @@
+The image below depicts an embedding of the Möbius strip into $\mathbb{R}^{3}$. Let $X \subset \mathbb{R}^{3}$ be the space obtained by cutting the image of this embedding into pieces along the red lines. Compute the rank of the first homology group of the space $\mathbb{R}^{3} \backslash X$.

@@ -1,0 +1,2 @@
+ Number $n$ is the least even integer satisfying that: 
+\large{$$5^{\frac{1}{2024}} \cdot 2^{\frac{2}{2024}} \cdot 5^{\frac{3}{2024}} \cdot 2^{\frac{4}{2024}} \cdots 5^{\frac{n-1}{2024}} \cdot 2^{\frac{n}{2024}} \cdot \left( \frac{1}{\sqrt{2}}\right)^{\frac{n}{2024}}$$} \normalsize \noindent is greater than $10$. Calculate $n$.

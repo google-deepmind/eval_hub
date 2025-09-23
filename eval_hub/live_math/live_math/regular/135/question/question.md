@@ -1,0 +1,1 @@
+There is a sequence of numbers 1, 4, 6, 6, 6, 8, 13, 13, 15. You have to append 4 natural numbers, such that the sum of these 4 natural numbers is 25. What is the maximum possible median of the final sequence after we add the new numbers?

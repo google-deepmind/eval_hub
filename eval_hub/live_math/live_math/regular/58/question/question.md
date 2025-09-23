@@ -1,0 +1,1 @@
+Find the number of four digit primes $n$ such that $2^n-3^n$ is divisible by $13$.

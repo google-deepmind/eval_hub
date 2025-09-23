@@ -1,0 +1,1 @@
+A cuboid has edges of lengths $9$, $40$, $1200$. A spider is sitting in one of its vertices and wants to walk to the opposite vertex, walking on the surface of the cuboid. What is the length of the shortest possible path it can take?

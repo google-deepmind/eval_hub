@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "gemini flash",
+    "grade": 9,
+    "comment": "The solution is a total mess. All necessary arguments (except reference to the second Sylow's theorem) are used. On the other hand, there are also meny unimportant thoughts and some and some wrong reasoning in the end.",
+    "types_of_mistakes": "5.11"
+}

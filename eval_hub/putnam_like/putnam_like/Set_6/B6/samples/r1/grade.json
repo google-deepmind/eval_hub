@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 0,
+    "comment": "Reasoning via approximations is not strict. The direction of error is not controlled. Exact CLT should be referenced.",
+    "types_of_mistakes": "2,5,6"
+}

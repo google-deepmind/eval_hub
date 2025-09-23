@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 2,
+    "comment": "In the solution there is a stron approximation by a short Taylor expansion. Moreover, at some place the reasoning is concluded without details. The answer is ok and it is mentioned that it needs to be verified easily.",
+    "types_of_mistakes": "2,11"
+}

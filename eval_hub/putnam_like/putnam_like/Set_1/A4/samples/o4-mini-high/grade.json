@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 2,
+    "comment": "It is proved that $ord G\\leq 2n$, and $G$ is non-abelian (but it should be formulated better). The reasoning in step 3 is totally wrong. The final step, \"Conclusion\", doesn't follow from the earlier reasoning.",
+    "types_of_mistakes": "4,6,11"
+}

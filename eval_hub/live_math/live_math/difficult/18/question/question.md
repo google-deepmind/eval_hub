@@ -1,0 +1,1 @@
+Find the minimal positive integer $n$ such that there exists an increasing arithmetic sequence $(a_1,a_2,\dots,a_8)$ consisting of prime numbers, with $a_8=n$.

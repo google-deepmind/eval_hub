@@ -1,0 +1,2 @@
+ Let $(X_n=(R_n,S_n,T_n))$ be a sequence of independent random variables, where each $X_n$ has a uniform distribution on the set of permutations of $(1,2,3)$. Let $\hat X_n = (\hat R_n,\hat S_n,\hat T_n)=(\sum_{i=1}^{n}R_i,\sum_{i=1}^{n}S_i,\sum_{i=1}^{n}T_i)$, $p_n = P(\hat R_n=\hat S_n=\hat T_n)$ and $q_n = P(\hat R_n,\hat S_n,\hat T_n \in \{2n-1,2n,2n+1\}, \hat R_n\neq\hat S_n)$. Show that $4p_n< q_n$ for infinitely many $n$.
+ 

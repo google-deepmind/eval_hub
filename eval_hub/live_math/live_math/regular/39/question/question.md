@@ -1,0 +1,1 @@
+Find the number of positive three-digit integers $n$ such that $2^n-43$ is divisible by $85$.

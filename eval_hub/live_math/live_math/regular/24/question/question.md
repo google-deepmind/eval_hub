@@ -1,0 +1,1 @@
+We write the numbers from $1$ to $1000$ on a board. What is the minimum amount of numbers we need to erase such that the product of the remaining numbers ends wtih $2$?

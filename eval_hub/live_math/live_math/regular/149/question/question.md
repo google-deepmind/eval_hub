@@ -1,0 +1,1 @@
+Excircles of a triangle have radii $48$, $72$, $144$. What is the radius of the incircle?

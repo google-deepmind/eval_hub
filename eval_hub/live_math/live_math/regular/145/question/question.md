@@ -1,0 +1,1 @@
+Let $ABC$ be an equilateral triangle with area $192/17$ and consider $D,E,F$ the middle points of $BC,CA$ and $AB$ respectively. Let $G,H,I$ the middle points of $DE, EF$ and $FD$ respectively and $J,K,L$ the middle points of $GH,HI$ and $IG$ respectively. We remove triangles $DGI$, $EHG$, $HFI$ and $JKL$. Calculate the area of the resulting figure.

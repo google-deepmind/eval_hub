@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 9,
+    "comment": "The solution is correct with a small detail - all the balls lie not in S, but in B(S, 1).",
+    "types_of_mistakes": "4"
+}

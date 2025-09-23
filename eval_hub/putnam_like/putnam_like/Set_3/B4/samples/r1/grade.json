@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 3,
+    "comment": "All details are missed, the usage of approximations is inprecise; it is not written what the symbol $\\approx$ means in this study. Note that for large $M$ blocks are longer and the increment is not bounded. This solution could be valid to study the subsequence of full blocks. However, the study of full sequence is not done.",
+    "types_of_mistakes": "6,11"
+}

@@ -1,0 +1,1 @@
+Any path can use only the lines of the grid and go only down or to the right. Count the number of different paths from the yellow to the blue point such that they pass through all green points but no red points.

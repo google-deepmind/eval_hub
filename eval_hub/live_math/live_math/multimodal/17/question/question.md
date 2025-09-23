@@ -1,0 +1,1 @@
+Consider the following configuration of complex curves with their self-intersection numbers indicated. Suppose that we perform blow-ups at the given red points. Calculate the sum of all self-intersection numbers (also counting the newly created curves) after these blow-ups are completed.

@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 6,
+    "comment": "The model correctly finds the solution with all unknowns equal, but then it says only that after summing equations we get that they have to be equal, but there are no details supporting this claim.",
+    "types_of_mistakes": "11"
+}

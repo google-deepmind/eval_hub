@@ -1,0 +1,1 @@
+There are 30 cards in the line. Count the number of ways we can choose 7 cards such that, the 9th card is chosen, no two adjacent cards are chosen, and we can not choose the first and the last card at the same time.

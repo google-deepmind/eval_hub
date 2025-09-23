@@ -1,0 +1,1 @@
+The image below depicts 15 distinct connected topological spaces in the plane $\mathbb{R}^{2}$. Let $P=\frac{a}{b}$ denote the probability of independently choosing two (not necessarily different) spaces which are homotopy equivalent, where $a$ and $b$ are coprime positive integers. Determine the number $b-a$.

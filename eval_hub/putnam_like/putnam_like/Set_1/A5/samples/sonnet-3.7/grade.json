@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 0,
+    "comment": "The model uses approximations that are in fact only inequalities.",
+    "types_of_mistakes": "2"
+}

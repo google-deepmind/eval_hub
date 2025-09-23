@@ -1,0 +1,1 @@
+Sophie came up with a pattern (on the right), from which she wants to build a rosette (on the left), given here: Compute the area of the shaded part of the rosette. Multiply the result by $10^5$, and give the floor of this number.

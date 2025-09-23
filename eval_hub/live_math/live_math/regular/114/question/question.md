@@ -1,0 +1,1 @@
+In a right triangle $ABC$, the height $CD$ is drawn from the vertex of the right angle. The perimeter of the triangle $CBD$ is 43.2 and the perimeter of the triangle $ADC$ is 57.6. Calculate the perimeter of the triangle $ABC$.

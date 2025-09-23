@@ -1,0 +1,1 @@
+How many unordered triples of vertices of a regular 2024-gon form a right triangle?

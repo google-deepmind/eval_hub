@@ -1,0 +1,1 @@
+Let $D_n$ be the set of divisors of a positive integer $n$. Count the number of integers $n$ bigger than 0 and smaller than 1000, such that the size of $D_n$ gives the remainder 1 modulo 4.

@@ -1,0 +1,1 @@
+The 2D figure shown is the net of a 3D container. The container has an equilateral triangular base with a side length of $\sqrt[6]{72}$. What is the maximum volume of water that fits inside?

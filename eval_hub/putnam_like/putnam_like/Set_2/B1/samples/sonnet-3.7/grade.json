@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 3,
+    "comment": "The model correctly performed only the decomposition of the complex fraction into simpler fractions",
+    "types_of_mistakes": "2.5"
+}

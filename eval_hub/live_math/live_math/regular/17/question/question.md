@@ -1,0 +1,1 @@
+Alice has calculated a product of four consecutive ten-digit positive integers in an arithmetic progression with the difference 15. She wrote the result on the blackboard. Next to it, Bob wrote a square of an integer. What is the minimal possible absolute value of the difference of the two numbers written on the blackboard?

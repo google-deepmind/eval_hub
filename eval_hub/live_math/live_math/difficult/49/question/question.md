@@ -1,0 +1,1 @@
+Calculate the positive integer $n$ if the maximum value of $\sqrt{1^3} a_1+\sqrt{2^3} a_2+\sqrt{3^3} a_3+\cdots+ \sqrt{n^3} a_{n}$ is $1001$ for positive real numbers $a_1, a_2,\cdots, a_{n}$ such that $a_1^2+a_2^2+\cdots+a_{n}^2=(7/15)^2$.

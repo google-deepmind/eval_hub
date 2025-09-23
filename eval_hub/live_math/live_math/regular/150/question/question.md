@@ -1,0 +1,1 @@
+A triangle $ABC$ is given with the following side lengths: $AB = 45$, $BC = 32$, $CA = 27$. The point $M$ is the middle of the side $AB$, and $I$ is the centre of the incircle of $ABC$. The lines $MI$ and $BC$ intersect in the point $K$. The length of the line segment $KB$ is of the form $\frac{p}{q}$, where $p$ and $q$ are coprime positive integers. Find $p+3q$.

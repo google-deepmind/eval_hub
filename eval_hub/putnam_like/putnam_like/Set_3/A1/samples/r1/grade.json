@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 1,
+    "comment": "The ratio of terms is simplified correctly, but it is not proven that this ratio is $> 1$. The thought that $x_n$ dominates other terms is definitely not precise.",
+    "types_of_mistakes": "10"
+}

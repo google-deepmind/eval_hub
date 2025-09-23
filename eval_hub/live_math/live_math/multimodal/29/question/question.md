@@ -1,0 +1,1 @@
+In the given diagram, the violet segments $AC$, $AE$, and $BC$ are of equal length. It is also given that $AD = 12$, $CD = 7$, and $\angle CDB = 120^{\circ}$. The length of the green segment $BE$ can be expressed in the form $a\sqrt{b}$, where $b$ is a prime number. Calculate the value of $a+b$.

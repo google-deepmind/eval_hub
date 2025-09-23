@@ -1,0 +1,1 @@
+Place six different positive integers in a row ordered from left to right from smallest to largest that add up to $1002$. What is the minimum sum of the third and sixth one?

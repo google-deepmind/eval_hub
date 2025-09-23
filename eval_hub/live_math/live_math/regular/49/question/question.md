@@ -1,0 +1,1 @@
+There is a circle with radius $R$. Then we create a copy of it, that is shifted in the direction perpendicular to some chord of the original circle by $\frac{R}{2}$. What percentage of the area of the original circle is covered by the intersection of those two circles? Round the answer to the nearest integer.

@@ -1,0 +1,4 @@
+From the conditions we know that $X$, $M$ and $N$ lie on $l$ in this order. We have $XM = 13$ and $XN = 60$. Therefore the power of $X$ with respect to $o_2$ is $XM\cdot XN = 13\cdot 12\cdot 5$. This must equal $XA\cdot XB$, which is then also a power of $X$ with respect to $o_1$, hence equal to $XK\cdot XL$. As $XK=12$, we get $XL = 5\cdot 13 = 65$. We now denote by $[F]$ the area of a figure $F$. We have
+ $$\frac{[XLN]}{[XKM]} = \frac{XL\cdot XN}{XK\cdot XM} = \frac{65\cdot 60}{12\cdot 13} = 25.$$
+As the triangle $XLN$ consists of non-overlapping triangle $XKM$ and quadrilateral $KLNM$, we get
+ $$\frac{[KLNM]}{[XKM]} = \frac{[XLN] - [XKM]}{[XKM]} = \frac{[XLN]}{[XKM]} - 1 = 24.$$

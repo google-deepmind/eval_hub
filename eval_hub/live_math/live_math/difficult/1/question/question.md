@@ -1,0 +1,1 @@
+There are $5$ real numbers $16, 24, 54, 81, x$. Also, there exist exactly $3$ real numbers $y_1 < y_2 < y_3$, such that for every $y_i$ the following holds: We can choose $4$ real numbers $a < b < c < d$, such that real numbers $16, 24, 54, 81, x, y_i$ are products of all $6$ pairs of real numbers $a, b, c, d$. Find the value of $x$.

@@ -1,0 +1,1 @@
+There is a 10-dimensional Euclidean space. Unit square is a square where each side has a length of 1. How many unit squares are formed just by points that have all their coordinates either 0, 1, or -1?

@@ -1,0 +1,1 @@
+The base of the regular pyramid ABCDS is square ABCD. Moreover, we know that $|AS|$ is 1.5 times longer than $AC$. The area of triangle ACS equals $50\sqrt{2}$. The lateral surface area of this pyramid can be expressed in the form $a\sqrt{b}$, where $b$ is a number not divisible by any square of an integer number. Find $a+b$.

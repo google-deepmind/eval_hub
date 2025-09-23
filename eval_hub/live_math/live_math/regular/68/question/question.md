@@ -1,0 +1,1 @@
+Let $a_n=n^2+3n+5$ and $b_n=GCD(a_n,a_{n+1})$. Find the maximum value that $b_n$ can take.

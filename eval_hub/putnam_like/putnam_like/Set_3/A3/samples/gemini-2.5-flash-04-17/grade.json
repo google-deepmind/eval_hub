@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "gemini flash",
+    "grade": 1,
+    "comment": "The model didn't understand the problem and add two extra balls each time. It correctly recognize the problem as the Polya urn model.",
+    "types_of_mistakes": null
+}

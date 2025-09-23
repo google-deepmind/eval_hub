@@ -1,0 +1,1 @@
+Count the number of palindromes consisting of 5 letters "A", 4 letters "B", 4 letters "C" and 2 letters "D". Palindrome is a sequence of letters that is the same as its reverse.

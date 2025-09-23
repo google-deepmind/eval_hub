@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 2,
+    "comment": "Step 1 and Step 2 of the original solution were performed, then there is no reasoning at all that would show the inequality.",
+    "types_of_mistakes": "10,11"
+}

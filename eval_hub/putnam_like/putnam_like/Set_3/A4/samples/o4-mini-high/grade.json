@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 5,
+    "comment": "The recurrence formula for $b_n$ is not derived. It is no obvious how to get it from the recurrence for $a_n$.",
+    "types_of_mistakes": "11"
+}

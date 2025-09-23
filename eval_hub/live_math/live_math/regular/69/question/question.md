@@ -1,0 +1,1 @@
+The sum of the $12$ edges of a rectangular cuboid is given by $50$ and the longest distance between two vertices of the parallelepiped is given by $\sqrt{297}/2$. If the areas of two faces are given by $20$ and $16$, calculate the area of the third different face.

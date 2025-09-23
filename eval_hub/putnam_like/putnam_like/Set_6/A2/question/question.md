@@ -1,0 +1,1 @@
+Find $\lim_{k\to 0} \frac 1k \int_0^k (1+\tan(x))^{\frac 1x}\, dx$

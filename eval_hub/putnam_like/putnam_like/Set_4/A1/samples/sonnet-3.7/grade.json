@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 2,
+    "comment": "The solution works only under a very strong assumption that g is strictly increasing (from some point), which is not true in general.",
+    "types_of_mistakes": "9"
+}

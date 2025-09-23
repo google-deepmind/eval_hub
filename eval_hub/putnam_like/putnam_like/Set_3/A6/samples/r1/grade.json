@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 0,
+    "comment": "There is a very poor solution. Only the case n=2 is studied fully and correctly. The study for $n\\geq 4$ is wrong - A doesn't have to have higher rank.",
+    "types_of_mistakes": "4, 11"
+}

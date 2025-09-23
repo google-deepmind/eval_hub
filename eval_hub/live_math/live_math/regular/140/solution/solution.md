@@ -1,0 +1,1 @@
+We can achieve 3 different distances if we arrange 5 people at the vertices of the regular pentagon and the 6th person is at the center of the circumcircle for the pentagon. Also, it was proven by Altman, that if we have n points, there is always at least $\lfloor\frac{n}{2}\rfloor$ distinct distances. Therefore 3 is optimal.

@@ -1,0 +1,1 @@
+Consider the Pascal's triangle where the row $0$ is given by number $1$, row $1$ is given by $1 \ \ 1$, etc. Find the lowest positive $n$ greater than $100$ such that you can find three consecutive terms in arithmetic progression in row $n$.

@@ -1,0 +1,3 @@
+To prove that $1595$ does not satisfy the conditions, take for $a_i$ the $i$-th Fibonacci number. The sum of first 15 Fibonacci numbers equals the difference of the $17$-th and 1 -- hence 1596.
+ 
+ Now we prove that if no three of $a_1$, $a_2$, \dots, $a_{15}$ are sides of a triangle, then their sum is at least 1596. Without lose of generality we can assume that $a_1\le a_2 \le \dots \le a_{15}$. The condition then means that $a_i+a_{i+1}\le a_{i+2}$ for $i=1,2,3,\dots, 13$. As $a_1\ge 1$ and $a_2\ge 1$, this means that $a_3\ge 2$, $a_4\ge 3$, and so on inductively we get that $a_i \ge f_i$. Hence the sum of all the numbers is at least $f_1+f_2+\dots+f_{15} = f_{17}-1 = 1596$.

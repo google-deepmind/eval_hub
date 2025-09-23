@@ -1,0 +1,1 @@
+You need at least 2 questions, because any cell has at least two other cells in the same distance and therefore they are indistinguishable. But with 2 questions it is possible. For example first could be about the upper left corner cell and the second could be about the lower left corner cell. The answers to these two questions uniquely determine the treasure's location.

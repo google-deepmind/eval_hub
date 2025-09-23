@@ -1,0 +1,1 @@
+In triangle $ABC$, the segments $AD$, $BE$, $CF$ are its altitudes. We have $DE = 17$, $EF = 53$, $FD = 45\sqrt{2}$. The circumcircle of the triangle $ABC$ has area $a\cdot \pi$. Find $a$.

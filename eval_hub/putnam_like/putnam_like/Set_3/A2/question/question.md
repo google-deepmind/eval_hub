@@ -1,0 +1,1 @@
+$k$ and $n$ are positive integers. Let $f(x)=\frac{1}{x^k+1}$ and let $p(x)=(x^k+1)^{n+1}f^{(n)}(x)$, where $f^{(n)}$ denotes the n-th derivative. Prove that $p(k-1)\in\mathbb{Z}$ and $k|p(k-1)$.

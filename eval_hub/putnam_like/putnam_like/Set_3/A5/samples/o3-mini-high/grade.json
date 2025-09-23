@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 9,
+    "comment": "Both methods skip some details. In method 1, \"the Fourier transform of the Gaussian\" is bit different than the given formula. It should be described better why this formula is correct. In method 2, Riemann-Lebesgue lemma states something bit different that the solution claim.  Again, reasoning why it is true should be given.",
+    "types_of_mistakes": "11"
+}

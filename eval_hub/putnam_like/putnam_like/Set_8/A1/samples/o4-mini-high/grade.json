@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 0,
+    "comment": "The model estimates |a\\sqrt{3}-b| instead of |a-\\sqrt{3}b|, the role of a and b is not symmetric.",
+    "types_of_mistakes": "4"
+}

@@ -1,0 +1,1 @@
+Find smallest integer $x$ such that $x\cdot max(\sum_{i=1}^n a_i, \sum_{i=1}^n b_i) \geq \sum_{i=1}^n max(a_i, b_i)$ for any $n$ and any two sequences of $n$ non-negative real numbers $a_1, a_2, ..., a_n$ and $b_1, b_2, ..., b_n$.

@@ -1,0 +1,1 @@
+There are 100 bulbs laid out on a circle. Each bulb can be in one of the two states: turned off or on. In front of each bulb, there is a switch which changes the state of that bulb and the two adjacent ones. Assuming that all the bulbs are off at the beginning, what is the minimal number of switches one needs switch so that all bulbs are on?

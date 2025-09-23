@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 4,
+    "comment": "Model correctly recognize the companion matrix. In the second part the intermediate value theorem is not applicable - between two zero values the value 1/2 is not provided.",
+    "types_of_mistakes": "4"
+}

@@ -1,0 +1,1 @@
+Compute the crossing number of the knot given by the following plumbing diagram:

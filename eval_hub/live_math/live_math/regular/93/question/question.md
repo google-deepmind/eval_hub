@@ -1,0 +1,1 @@
+Two real numbers $x,y$ satisfy $\frac{12x-524y}{3y-2x}=500$. Express $\frac{2012x-2030y}{2030x+2012y}$ as a fraction $\frac{a}{b}$, where $a$, $b$ are coprime. Find $b-a$.

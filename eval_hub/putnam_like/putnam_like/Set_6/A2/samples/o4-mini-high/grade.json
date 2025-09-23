@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 9,
+    "comment": "The function f is not defined at 0 so it is forbidden to write f(0). This way the use of mean-value theorem is not precise.",
+    "types_of_mistakes": "4"
+}

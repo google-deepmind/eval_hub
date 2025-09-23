@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 2,
+    "comment": "The model solved the problem under the assumption that the function is affine. The solution to the general case is incorrect.",
+    "types_of_mistakes": "11"
+}

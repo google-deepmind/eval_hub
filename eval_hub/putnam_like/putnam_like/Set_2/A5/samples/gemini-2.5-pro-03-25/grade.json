@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "gemini pro",
+    "grade": 9,
+    "comment": "Very elegant solution involving Sylow's theorem and a concept of commutator subgroup. The only problem is a lack of referce to the second Sylow's theorem to show that H is normal.",
+    "types_of_mistakes": "11"
+}

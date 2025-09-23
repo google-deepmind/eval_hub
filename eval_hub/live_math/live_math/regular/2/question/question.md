@@ -1,0 +1,1 @@
+There is a grid of size 10x10. In one cell is hidden a treasure. You can ask about any cell $(x,y)$ of the grid, what is the Manhattan distance of the cell $(x,y)$ from the treasure. What is the minimum number of questions you need to ask to always find a treasure?

@@ -1,0 +1,1 @@
+The figure shows a lattice and a complete fan on it. Find the number of singular points of the complex toric variety associated to that fan.

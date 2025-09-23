@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 3,
+    "comment": "The idea is correct, but very importaint detail in the second part is skipped. Showing that H and [G,G] have trivial intersection is not so easy. It should be explained how the Lagrange's theorem should be used.",
+    "types_of_mistakes": "11"
+}

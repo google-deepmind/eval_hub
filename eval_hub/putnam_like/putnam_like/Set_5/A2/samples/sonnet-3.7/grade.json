@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 4,
+    "comment": "The model operates on infinite sums without verification of the convergence. But it mentiones that they are convergent thanks to the assumption.",
+    "types_of_mistakes": null
+}

@@ -1,0 +1,1 @@
+Let $ABC$ be an equilateral triangle with area $100$ and let $D,E,F$ be the middle points of $BC,AC$ and $AB$ respectively. Let $G$ be a point in $BC$ such that $GC/BG=n$. Let $H$ the intersection of $AG$ with $EF$. Calculate $n$ if the area of the quadrilateral $FHGB$ is given by $15$.

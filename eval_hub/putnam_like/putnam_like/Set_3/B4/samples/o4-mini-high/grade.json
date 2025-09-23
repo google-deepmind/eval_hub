@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 8,
+    "comment": "There are some lacks in the solution: the formula for the sum of 4-th powers is not well known - should be proven; the model miss the term with t at some place. It is not written what the symbol $\\sim$ means in this solution.",
+    "types_of_mistakes": "6.11"
+}

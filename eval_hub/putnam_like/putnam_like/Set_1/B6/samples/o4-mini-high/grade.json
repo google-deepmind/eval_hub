@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 2,
+    "comment": "Two points for finding the limit of x_n/(a+b)^n in terms of the series involving x_i. Then the model is unable to compute the limit.",
+    "types_of_mistakes": "11"
+}

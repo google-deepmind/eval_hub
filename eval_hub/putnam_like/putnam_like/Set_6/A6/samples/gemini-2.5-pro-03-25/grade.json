@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "gemini pro",
+    "grade": 0,
+    "comment": "The model incorrectly applies probability formulas.",
+    "types_of_mistakes": "6, 7,8, 11"
+}

@@ -1,0 +1,1 @@
+Matthew has written down a 1001-digit number. Then he rearranged its digits and this way he has got a new, different number that he also wrote down. Then he added the two numbers. It turned out that its sum still has 1001 digits. What is the largest possible value of that sum? Provide the last 19 digits of the answer.

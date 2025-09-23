@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 4,
+    "comment": "In step1 the model ends with a wrong but not necessary implication. At the beginning of step2 it is not true that rank 1 implies exactly one non-zero eigenvalues - for example 2x2 Jordan block of eigenvalue 0 has rank 1. The model should utilze the trace precisely together with a way from A^2 to A. The same about multiplicity. The construction of the example is not given.",
+    "types_of_mistakes": "11"
+}

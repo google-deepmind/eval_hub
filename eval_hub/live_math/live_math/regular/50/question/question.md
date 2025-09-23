@@ -1,0 +1,1 @@
+Consider a $n \times 4$ board formed by $4n$ squares. A $4-$line in the board is given by $4$ consecutive squares forming a horizontal, vertical or diagonal line. Calculate $n$ if there are exactly $2348$ different $4-$lines in the board.

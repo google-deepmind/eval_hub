@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 3,
+    "comment": "The argument that $a^{2n} + b^{2n}$ is an integer has not been provided.",
+    "types_of_mistakes": "7,11"
+}

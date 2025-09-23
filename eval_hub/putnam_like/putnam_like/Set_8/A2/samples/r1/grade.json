@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 0,
+    "comment": "The suggested equation does not give a horizontal tangent at (a,0), nor was the parabola condition ever verified. Therefore it fails to satisfy the required tangency conditions and is not the correct parabola.",
+    "types_of_mistakes": "4"
+}

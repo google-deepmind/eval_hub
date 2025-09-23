@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "gemini flash",
+    "grade": 8,
+    "comment": "All roots of the given polynomial produce the roots of the second one (with variable y). However, it is not shown that there is a bijection between these roots. The steps were not equivalent since the squaring operation was performed.",
+    "types_of_mistakes": "4"
+}

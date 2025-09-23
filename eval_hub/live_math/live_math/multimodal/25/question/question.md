@@ -1,0 +1,1 @@
+You can use two types of blocks, that are shown on the left side of the picture. In how many ways is it possible to tile the grid on the right side of the picture using only two types of blocks? (blocks can be arbitrarily rotated)

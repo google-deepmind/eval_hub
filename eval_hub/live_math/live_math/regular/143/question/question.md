@@ -1,0 +1,1 @@
+We are throwing darts at the rectangle ABCD. All points of the rectangle have the same probability that the dart lands on them. The probability that the dart will hit the point that has the shortest distance to the side AB is 37,5\%. What is the ratio $\frac{|AB|}{|AD|}$?

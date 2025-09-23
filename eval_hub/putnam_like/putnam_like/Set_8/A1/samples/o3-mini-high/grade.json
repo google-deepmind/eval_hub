@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 0,
+    "comment": "There is an error in the last line: RHS should have 27 instead of 9 and therefore the inequality is much weaker. It is impossible to fix (well - one needs to modify an estimation at the beginning of the solution, so rewrite the solution from the beginning).",
+    "types_of_mistakes": "8"
+}

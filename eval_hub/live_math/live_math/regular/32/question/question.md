@@ -1,0 +1,1 @@
+A kindergarten group consists of 29 children, including three-year-olds, four-year-olds, and five-year-olds. The sum of the ages of all the children in this kindergarten is 122. How many more five-year-olds are there than three-year-olds?

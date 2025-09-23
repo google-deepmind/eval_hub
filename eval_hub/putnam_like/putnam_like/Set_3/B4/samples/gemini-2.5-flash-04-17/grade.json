@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "gemini flash",
+    "grade": 8,
+    "comment": "The formula for the sum of 4-th powers is not well known and sholud be proven. It is not written what the symbol $\\sim$ means in this solution, especially when it is used together with big O notation.",
+    "types_of_mistakes": "6"
+}

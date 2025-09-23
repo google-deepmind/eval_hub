@@ -1,0 +1,5 @@
+Let $n = \sum_{i=0}^8 10^ia_i$ the a number satisfying the condition from the problem. Then we have
+    \begin{align*}
+        a_0a_1a_2 = a_1a_2a_3,
+    \end{align*}
+    so $a_0 = a_3$. Writing such products further, we come to the conclusion that we need $a_0 = a_3 = a_6$, $a_1 = a_4 = a_7$, $a_2 = a_5 = a_8$. So our number is of the form $abcabcabc$. We need to find out how many triples $(a,b,c)$ of digits have the property that their product is 12. Namely, we have $12= 3\cdot 4 \cdot 1$, $12 = 6 \cdot 2 \cdot 1$, $12 = 2 \cdot 3 \cdot 2$. For the first triple $(a,b,c)$ we have to consider 6 possible permutations, since all of them give us different numbers. For another triiple we need also 6 possible permutations. For the last triple, $2, 3, 2$, we only have to take care of the position of the 3, which can be chosen on 3 ways. Thus in total, we have 15 such numbers.\\

@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 0,
+    "comment": "The solution is wrong (the model shows that f has to be zero, which is not true). The model assumes in addition that f>=0.",
+    "types_of_mistakes": "8,9"
+}

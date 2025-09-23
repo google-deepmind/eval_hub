@@ -1,0 +1,1 @@
+We are given a triangle $ABC$ with $AB = 99$ and $AC=126$. The line segments $BD$ and $CE$ are altitudes of the triangle. The lines $DE$ and $BC$ intersect in a point $F$. We know that $BF=135$. The perimeter of the triangle $ABC$ is of the form $\frac pq$ for coprime positive integers $p$ and $q$. Find the sum of all possible values of $p+q$.

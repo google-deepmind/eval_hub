@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 0,
+    "comment": "The proof is not rigorous. The model \"forgets\" about the \"error term\", which makes the computation a lot easier.",
+    "types_of_mistakes": "2"
+}

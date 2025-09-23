@@ -1,0 +1,1 @@
+There are 6 people standing on the infinite plane. They can be arranged in any way such that no two people share the same position. What is the minimum number of distinct distances between pairs of people in any arrangement?

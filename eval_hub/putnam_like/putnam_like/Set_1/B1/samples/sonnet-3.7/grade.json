@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 2,
+    "comment": "The model correctly found all solutions, but it didn't show that these are all solutions. There is a try, using concavity, but with a logic error in inequalities.",
+    "types_of_mistakes": "4"
+}

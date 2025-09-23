@@ -1,0 +1,3 @@
+Let $AB$ be a line segment of length $14$, and let a point $D$ inside $AB$ satisfy $AD = 5$ (hence $DB = 9$). Let $C$ be a point in the plane such that $CD\perp AB$ and $CD = 12$. Then by Pythagorean theorem we have $AC = \sqrt{5^2 + 12^2} = 13$ and $BC = \sqrt{9^2 + 12^2} = 15$. Hence the triangle $ABC$ satisfies the conditions of the problem. Of course any such triangle will be congruent to $ABC$. Hence we have to calculate the radius of the incircle of $ABC$.
+ 
+ The area of $ABC$ is $AB \cdot CD/2 = 14\cdot 12/2 = 84$. The radius $r$ of the incircle satisfies that $r(AB + BC + CA)/2$ is the area of $ABC$. Hence we have $r\cdot 21 = 84$. This means that $r = 4$. 

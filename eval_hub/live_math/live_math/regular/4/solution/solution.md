@@ -1,0 +1,1 @@
+Notice that $108$ and $33$ are both multiples of $3$ so the result will be multiple of $3$. In addition, $4 \cdot 108-13 \cdot 33=3$ so we can get any multiple of $3$. The closest one is $2025$.

@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 2,
+    "comment": "The answer is correct, by only accidentally. It is correct up to the area of PQR. Then the formula for r(a,b) shouldn't contain ab(a+b) in the denominator. Therefore the limit of r(a,a+h) is slightly different. Then the factorization of the polynomial is not correct.",
+    "types_of_mistakes": null
+}

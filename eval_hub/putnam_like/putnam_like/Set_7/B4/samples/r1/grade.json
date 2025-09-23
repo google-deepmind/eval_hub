@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 2,
+    "comment": "The set $\\mathbb{O}$ is correctly described, and it is observed that certain constant polynomials satisfy the conditions of the problem.",
+    "types_of_mistakes": "7, 11"
+}

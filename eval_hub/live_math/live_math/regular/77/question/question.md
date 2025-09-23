@@ -1,0 +1,1 @@
+A quadrilateral with angles $60^\circ$, $70^\circ$, $100^\circ$, $130^\circ$ was cut into three similar triangles. Find the measure, in degrees of the smallest angle in any of those triangles.

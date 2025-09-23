@@ -1,0 +1,1 @@
+Let $A$ and $B$ be two square invertible matrices of size $2n+1$, where $n\geq 1$. Do there exist real numbers $a$ and $b$ such that $a^2+b^2\neq 0$ and $\det(aA+bB)=0$?

@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "gemini pro",
+    "grade": 0,
+    "comment": "The model doesn't recognize correctly the structure of matrix A. Even in the study of te other matrix A the model has considered only small cases.",
+    "types_of_mistakes": "12"
+}

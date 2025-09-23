@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 0,
+    "comment": "A rerrengement cannot be valid if the function $f$ could attain negative values. Even for positive functions the given condition depends on the convexity. Starting from 'on the other hand' - the inequality there does not hold for $k=n$. For the upper bound there is a mistake: $f(1/n)\\geq f(0)$ is false.",
+    "types_of_mistakes": "4"
+}

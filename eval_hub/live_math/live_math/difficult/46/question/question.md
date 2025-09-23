@@ -1,0 +1,1 @@
+Consider fractions $x/y$ such that $x$ and $y$ are positive integers such that $1 \leq x \leq y \leq 2024$. Calculate the sum of all these fractions (notice that $2/6$ and $1/3$ are considered different fractions and both must be considered in the sum).

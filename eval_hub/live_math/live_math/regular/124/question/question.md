@@ -1,0 +1,1 @@
+Find the smallest integer whose square has at least $4$ digits and its last three digits are $001$, in this order. That is, the last digit is $1$ and the previous two digits are zeros.

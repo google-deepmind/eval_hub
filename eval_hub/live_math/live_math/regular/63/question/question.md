@@ -1,0 +1,1 @@
+Alice writes 10 different numbers on the board, also Bob writes 10 different numbers on the board. Then each of them calculates sum of every two numbers they wrote. Let $a$ be the number of different results Alice obtained and $b$ be the number of different results Bob obtained. What is the maximum difference $a-b$?

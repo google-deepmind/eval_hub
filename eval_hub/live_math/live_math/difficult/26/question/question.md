@@ -1,0 +1,1 @@
+Let $ABCD$ and $EFGH$ be two squares of side length $1$ which have the same center $O$ and such that $E$ is the closest vertex of $EFGH$ to $A$. If the area of the octagon obtained from the intersection of both squares is given by $2 \sqrt{6}-4$, calculate in degrees the measure of the angle $\angle AOE$.

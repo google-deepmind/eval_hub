@@ -1,0 +1,1 @@
+A rectangle $ABCD$ is given, with $AB = 10$, $BC = 13$. A point $X$ lies on the circumcircle of the recetangle. It is located  on the shorter arc $AB$ and satisfies $XA = 8$. Compute $XB^2 + XC^2 + XD^2$.

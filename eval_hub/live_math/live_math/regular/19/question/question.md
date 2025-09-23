@@ -1,0 +1,1 @@
+A hexagon $ABCDEF$ is inscribed in a circle. We know that $\angle FAB = 120^\circ$, $\angle ABC = 90^\circ$, $\angle BCD = 80^\circ$, $\angle CDE = 100^\circ$. Determine the product of the measures of the angles $DEF$ and $EFA$, in degrees.

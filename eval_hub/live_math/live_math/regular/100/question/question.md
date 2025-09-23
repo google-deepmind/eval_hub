@@ -1,0 +1,1 @@
+Let $ABCD$ be a rectangle and consider $E$ and $F$ such that $E,F$ and $A$ are on the same line and $ED$, $AC$ and $FB$ are perpendicular to the segment $EF$. If $ED=12$ and $FB=3$, calculate the area of $ABCD$.

@@ -1,0 +1,1 @@
+Four pairwise distinct circles $o_1$, $o_2$, $o_3$, $o_4$ are all tangent to both arms of an angle of measure $60^\circ$. Moreover, the circle $o_2$ is tangent to both $o_1$ and $o_3$ and the circle $o_3$ is also tangent to $o_4$. Determine the ratio of the areas of the circles $o_4$ and $o_1$, knowing that it is larger than $1$.

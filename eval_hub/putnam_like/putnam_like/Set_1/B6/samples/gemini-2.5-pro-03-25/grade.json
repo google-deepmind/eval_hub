@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "gemini pro",
+    "grade": 9,
+    "comment": "The formula for x_n should be proven, e.g. by an induction.",
+    "types_of_mistakes": "7"
+}

@@ -1,0 +1,1 @@
+Determine for how many integers $n$ such that $2 < n < 100$ there exists a polynomial with integer coefficients $P(x)$ satisfying $P(a)=P(a+1)=P(a+2)=2$ for some integer $a$ and such that $P(b)=n$ for some integer $b$.

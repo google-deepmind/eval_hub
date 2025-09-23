@@ -1,0 +1,1 @@
+Compute the order of the fundamental group of the 2-dimensional CW complex depicted below. (Where arrows of the same color have to be glued together according to their orientations.)

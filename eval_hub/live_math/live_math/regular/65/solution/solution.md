@@ -1,0 +1,1 @@
+Each exam has 5 days to choose. It means that we have $5^{11}$ possible ways. But we need to subtract the number of options where there is a day with no exam taking place. For this, we can use the inclusion-exclusion principle.

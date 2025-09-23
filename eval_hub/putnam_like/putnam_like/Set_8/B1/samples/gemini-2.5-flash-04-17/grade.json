@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "gemini flash",
+    "grade": 8,
+    "comment": "Model uses numerics to compare two values.",
+    "types_of_mistakes": "1"
+}

@@ -1,0 +1,1 @@
+Numbers $A_1$, $A_2$, $A_3$ and $A_4$ are given, such that $|A_1-A_3| < A_4-A_2$ and $A_1+A_3 = A_2+A_4$. Find the index of the biggest one of those numbers.

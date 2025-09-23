@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 4,
+    "comment": "It is true that the error of the first approximation is $O(1)$ but it must be proven. It is the crucial part of this solution.",
+    "types_of_mistakes": "2,11"
+}

@@ -1,0 +1,1 @@
+Suppose without loss of generality that $m \geq n$. Notice that the first condition yields to $(n,m) \in \{(9,3),(8,4),(7,5),(6,6)\}$ but the only pair which satisfy the second condition is $(m,n)=(9,3)$. Hence, $m^{1000}+n^{1000} \equiv 1 + 1 = 2 \pmod{10}$ so the last digit is $2$ and we are done.

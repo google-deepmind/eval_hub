@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 8,
+    "comment": "Taylor expansion of tan is used correctly. However, then it is used under logarithmic function and then expansion should be $x+O(x^2)$ for x<1. Finally this mistake does not influence the final result. ",
+    "types_of_mistakes": "2"
+}

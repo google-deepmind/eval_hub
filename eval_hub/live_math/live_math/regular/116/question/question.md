@@ -1,0 +1,1 @@
+Find the smallest positive integer whose number of proper divisors is $76$.

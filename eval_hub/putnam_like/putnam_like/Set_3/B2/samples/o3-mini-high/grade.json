@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 1,
+    "comment": "The solution is wrong. The model uses approximation of the inner sum, while $k$ is not large, but $k$ is a variable in the outer sum. The asnwer is correct.",
+    "types_of_mistakes": "2,4"
+}

@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 8,
+    "comment": "There is a not needed, wrong, pass to the Lebesgue-Stieltjes integral, which requires here that g is strictly increasing. Moreover, in the end, there should be 2\\eps instead of \\eps.",
+    "types_of_mistakes": "4.8"
+}

@@ -1,0 +1,1 @@
+You have 16 numbers 1, 2, ..., 16. How many subsets $X$ (empty set is also a subset) can you choose such that, if you order the numbers in the subset $x_1 < x_2 < ... < x_{|X|}$, then for all $1 \leq i < |X|$ holds that $x_i$ divides $x_{i+1}$?

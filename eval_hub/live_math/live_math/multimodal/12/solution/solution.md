@@ -1,0 +1,1 @@
+It is well known that the crossing number for K_6 is 3, the proof can be seen for example here: http://people.qc.cuny.edu/faculty/christopher.hanusa/courses/634sp12/Documents/634sp12ch9-2.pdf on page 2. So it is not possible to achieve less than 3 intersections between the roads connecting 6 cities, and thus the answer is 420 000.

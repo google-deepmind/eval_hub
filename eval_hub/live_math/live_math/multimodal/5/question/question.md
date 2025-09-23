@@ -1,0 +1,1 @@
+Let $Y$ be the boundary of the 4-manifold $X$ represented by the plumbing graph depicted below. Determine the order of the group $\pi_{10}(Y)$.

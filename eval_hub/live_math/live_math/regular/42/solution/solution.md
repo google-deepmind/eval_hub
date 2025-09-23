@@ -1,0 +1,1 @@
+The number $10^{100} = 2^{100}\cdot 5^{100}$ has $101\cdot 101 = 10201$ positive divisors. One of them is exactly equal to $10^{50}$. The rest come in pairs that multiply to $10^{100}$, with one smaller and one larger than $10^{50}$. Hence we have $10200/2 = 5100$ divisors smaller than $10^{50}$.

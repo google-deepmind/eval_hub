@@ -1,0 +1,1 @@
+Points $A$ and $B$ lie on the circumference $\omega$ of radius $1$ centered at point $O$. Point $P$ lies outside the circle such that $OP$ is parallel to $AB$. Calculate the length of $AB$ so that the area of the triangle $ABP$ is maximum. Give the result squared.

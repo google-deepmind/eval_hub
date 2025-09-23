@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 1,
+    "comment": "It is not shown how the model has got the multiplicity of eigenvalues. Further: it is not true that A has to have pairs of +/- eigenvalues. In 'Key constraint' step there is no proof of any statement.",
+    "types_of_mistakes": "4.1"
+}

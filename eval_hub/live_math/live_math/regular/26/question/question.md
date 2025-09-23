@@ -1,0 +1,1 @@
+Alice's great-grandmother was born in the last decade of the XIX century. Alice discovered that her great-grandma turned $x$ in the year $x^2$, already in the XX century. In which year her great-grandmother was born?

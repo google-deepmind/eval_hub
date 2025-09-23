@@ -1,0 +1,1 @@
+Count the number of subsets $S$ of vertices from the given graph, such that between any two vertices from $S$ there is no edge.

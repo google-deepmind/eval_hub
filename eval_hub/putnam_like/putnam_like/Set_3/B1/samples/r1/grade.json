@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 5,
+    "comment": "It is not described why the exponent of $i$ in the final term is \\(\\frac{\\binom{n-1}{i-1}}{2^{n-1}}\\).  It is not verified that $\\sum P(X=k) =1$. The idea is correct, but the solution needs much more detail.",
+    "types_of_mistakes": "11"
+}

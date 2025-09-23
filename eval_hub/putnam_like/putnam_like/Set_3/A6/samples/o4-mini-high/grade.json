@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 1,
+    "comment": "In step 2. there is a mistake: $(w^T u)\\,u\\,w^T$ should be $(uw^T)\\,uw^T$. Later, this is not true that $(A^2)_{ii}=(\\sum_i A_{ik})(\\sum_j A_{kj})$. It should be $(A^2)_{ii}=\\sum_i A_{ki}A{ik}$. The point is given for the good condition for eigenvalues of A.",
+    "types_of_mistakes": "4"
+}

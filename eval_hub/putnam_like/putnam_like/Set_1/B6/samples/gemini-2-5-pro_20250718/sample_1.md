@@ -1,0 +1,128 @@
+Here is a detailed step-by-step solution to the problem.
+
+### 1. Analysis of the Recurrence Relation
+
+The given recurrence relation is $x_{n+1} = \beta x_n + \left\lfloor \alpha x_n \right\rfloor$.
+We can rewrite the floor function term using the fractional part function, $\{y\} = y - \lfloor y \rfloor$, where $0 \le \{y\} < 1$.
+So, $\lfloor \alpha x_n \rfloor = \alpha x_n - \{\alpha x_n\}$.
+Substituting this into the recurrence relation gives:
+$x_{n+1} = \beta x_n + (\alpha x_n - \{\alpha x_n\}) = (\alpha + \beta) x_n - \{\alpha x_n\}$.
+
+This shows that the sequence $x_n$ grows approximately by a factor of $\alpha+\beta$ at each step. The term we are asked to compute, $\lim_{n\to\infty} \frac{x_n}{(\alpha + \beta)^n}$, is essentially the leading constant in the asymptotic behavior of $x_n$.
+
+Let $\lambda_1 = \alpha+\beta$ and $\lambda_2 = \beta-\alpha$. From the given conditions:
+*   $\beta \in \mathbb{N}$ and $\alpha > 0$, so $\lambda_1 = \alpha+\beta > 1$.
+*   $\beta-\alpha \in (0,1)$, so $0 < \lambda_2 < 1$.
+
+The recurrence can be written as $x_{n+1} = \lambda_1 x_n - \{\alpha x_n\}$.
+
+### 2. Constructing a Linear System
+
+The presence of the non-linear term $\lfloor \alpha x_n \rfloor$ makes the recurrence difficult to solve directly. A common technique for such problems, especially those involving quadratic irrationals, is to find a corresponding linear system of recurrences with integer coefficients.
+
+Let $A = \alpha^2$. We are given that $A \in \mathbb{N}$.
+Consider the integer matrix $M = \begin{pmatrix} \beta & A \\ 1 & \beta \end{pmatrix}$.
+The characteristic equation of $M$ is $\det(M - \lambda I) = 0$:
+$(\beta-\lambda)^2 - A = 0 \implies \beta-\lambda = \pm\sqrt{A} = \pm\alpha$.
+The eigenvalues are $\lambda = \beta \pm \alpha$. These are our rates $\lambda_1$ and $\lambda_2$.
+
+Let's define two integer sequences $(u_n)_{n \geq 0}$ and $(v_n)_{n \geq 0}$ by the linear recurrence system:
+$$ \begin{pmatrix} u_{n+1} \\ v_{n+1} \end{pmatrix} = M \begin{pmatrix} u_n \\ v_n \end{pmatrix} = \begin{pmatrix} \beta & A \\ 1 & \beta \end{pmatrix} \begin{pmatrix} u_n \\ v_n \end{pmatrix} $$
+which is equivalent to:
+$$ u_{n+1} = \beta u_n + A v_n $$
+$$ v_{n+1} = u_n + \beta v_n $$
+We need to choose initial values $u_0, v_0$.
+
+### 3. Connecting the Linear System to the Original Sequence
+
+Our goal is to show that the sequence $x_n$ can be identified with the sequence $v_n$ for a suitable choice of initial conditions.
+Let's assume $v_n = x_n$ for all $n \ge 0$. For this to be true, the recurrence relations must match.
+The recurrence for $x_n$ is $x_{n+1} = \beta x_n + \lfloor \alpha x_n \rfloor$.
+If $v_n=x_n$, the recurrence for $v_n$ would be $v_{n+1} = \beta v_n + \lfloor \alpha v_n \rfloor$.
+Comparing this with the system's equation $v_{n+1} = u_n + \beta v_n$, we must have $u_n = \lfloor \alpha v_n \rfloor$.
+
+Let's check if this definition of $u_n$ is consistent with its own recurrence relation from the system, i.e., $u_{n+1} = \beta u_n + A v_n$.
+If we set $u_n = \lfloor \alpha v_n \rfloor$, then $u_{n+1} = \lfloor \alpha v_{n+1} \rfloor$.
+Substituting the expressions for $v_{n+1}$ and $u_n$:
+$$ \lfloor \alpha(u_n + \beta v_n) \rfloor = \beta u_n + A v_n $$
+$$ \lfloor \alpha(\lfloor \alpha v_n \rfloor + \beta v_n) \rfloor = \beta \lfloor \alpha v_n \rfloor + \alpha^2 v_n $$
+Let's prove this identity for any integer $v$ and $k=\lfloor \alpha v \rfloor$. Let $v_n=v, u_n=k$. We need to show:
+$$ \lfloor \alpha(k + \beta v) \rfloor = \beta k + \alpha^2 v $$
+Since $\beta k + \alpha^2 v$ is an integer (as $\beta, k, \alpha^2, v$ are), the identity is equivalent to showing:
+$$ \beta k + \alpha^2 v \le \alpha(k + \beta v) < \beta k + \alpha^2 v + 1 $$
+
+**Left inequality:** $\beta k + \alpha^2 v \le \alpha k + \alpha\beta v$
+$k(\beta - \alpha) \le v(\alpha\beta - \alpha^2) = v\alpha(\beta - \alpha)$.
+Since we are given $\beta - \alpha \in (0,1)$, we can divide by $\beta-\alpha > 0$:
+$k \le \alpha v$. This is true by definition of $k = \lfloor \alpha v \rfloor$.
+
+**Right inequality:** $\alpha k + \alpha\beta v < \beta k + \alpha^2 v + 1$
+$k(\alpha - \beta) < v(\alpha^2 - \alpha\beta) + 1 = v\alpha(\alpha - \beta) + 1$.
+Multiplying by $-1$ reverses the inequality:
+$k(\beta - \alpha) > v\alpha(\beta - \alpha) - 1$.
+By definition, $k = \lfloor \alpha v \rfloor$, so $\alpha v - 1 < k$.
+We need to show that $\alpha v - 1 \ge v\alpha(\beta - \alpha) - 1$, which is not what we want.
+Instead, let's use $k > \alpha v - 1$ in the inequality we want to prove:
+$k > \alpha v - \frac{1}{\beta-\alpha}$.
+Since $\beta-\alpha \in (0,1)$, we have $\frac{1}{\beta-\alpha} > 1$.
+So, $\alpha v - \frac{1}{\beta-\alpha} < \alpha v - 1$.
+As $k > \alpha v - 1$, it is also true that $k > \alpha v - \frac{1}{\beta-\alpha}$.
+The identity is thus proven.
+
+This means if we choose initial conditions for the linear system as $v_0 = x_0$ and $u_0 = \lfloor \alpha x_0 \rfloor$, the sequence $(v_n)$ generated by the linear system is identical to the sequence $(x_n)$.
+
+### 4. Solving the Linear System
+
+Now we can find the limit by analyzing the solution of the linear system. The general solution for the vector $(u_n, v_n)^T$ is a linear combination of terms involving the eigenvalues and eigenvectors of $M$.
+The eigenvectors $e_1, e_2$ corresponding to eigenvalues $\lambda_1 = \beta+\alpha$ and $\lambda_2 = \beta-\alpha$ are:
+For $\lambda_1 = \beta+\alpha$:
+$M e_1 = (\beta+\alpha)e_1$. Let $e_1 = \begin{pmatrix} p \\ q \end{pmatrix}$.
+$\beta p + A q = (\beta+\alpha)p \implies A q = \alpha p \implies \alpha^2 q = \alpha p \implies p = \alpha q$.
+We can choose $e_1 = \begin{pmatrix} \alpha \\ 1 \end{pmatrix}$.
+
+For $\lambda_2 = \beta-\alpha$:
+$M e_2 = (\beta-\alpha)e_2$. Let $e_2 = \begin{pmatrix} p \\ q \end{pmatrix}$.
+$\beta p + A q = (\beta-\alpha)p \implies A q = -\alpha p \implies \alpha^2 q = -\alpha p \implies p = -\alpha q$.
+We can choose $e_2 = \begin{pmatrix} -\alpha \\ 1 \end{pmatrix}$.
+
+The general solution is of the form:
+$$ \begin{pmatrix} u_n \\ v_n \end{pmatrix} = c_1 \lambda_1^n e_1 + c_2 \lambda_2^n e_2 = c_1 (\beta+\alpha)^n \begin{pmatrix} \alpha \\ 1 \end{pmatrix} + c_2 (\beta-\alpha)^n \begin{pmatrix} -\alpha \\ 1 \end{pmatrix} $$
+We find the constants $c_1, c_2$ using the initial conditions at $n=0$:
+$$ \begin{pmatrix} u_0 \\ v_0 \end{pmatrix} = c_1 \begin{pmatrix} \alpha \\ 1 \end{pmatrix} + c_2 \begin{pmatrix} -\alpha \\ 1 \end{pmatrix} $$
+This gives the system of linear equations for $c_1, c_2$:
+1.  $u_0 = c_1 \alpha - c_2 \alpha = \alpha(c_1 - c_2)$
+2.  $v_0 = c_1 + c_2$
+
+From (1), $c_1 - c_2 = u_0/\alpha$.
+Adding this to (2): $v_0 + u_0/\alpha = 2c_1 \implies c_1 = \frac{1}{2}(v_0 + u_0/\alpha)$.
+Subtracting this from (2): $v_0 - u_0/\alpha = 2c_2 \implies c_2 = \frac{1}{2}(v_0 - u_0/\alpha)$.
+
+### 5. Computing the Limit
+
+We want to compute $\lim_{n\to\infty} \frac{x_n}{(\alpha + \beta)^n}$.
+Since $x_n = v_n$, we have:
+$$ \frac{x_n}{(\alpha+\beta)^n} = \frac{v_n}{(\alpha+\beta)^n} = \frac{c_1(\beta+\alpha)^n + c_2(\beta-\alpha)^n}{(\alpha+\beta)^n} = c_1 + c_2 \left(\frac{\beta-\alpha}{\beta+\alpha}\right)^n $$
+We need to evaluate the limit of this expression as $n \to \infty$.
+We know $\lambda_1 = \beta+\alpha > 1$ and $\lambda_2 = \beta-\alpha \in (0,1)$.
+Therefore, the ratio $|\frac{\lambda_2}{\lambda_1}| = |\frac{\beta-\alpha}{\beta+\alpha}| < 1$.
+So, $\lim_{n\to\infty} \left(\frac{\beta-\alpha}{\beta+\alpha}\right)^n = 0$.
+
+The limit is:
+$$ \lim_{n\to\infty} \frac{x_n}{(\alpha + \beta)^n} = c_1 $$
+Substituting the value of $c_1$ we found:
+$$ c_1 = \frac{1}{2}(v_0 + u_0/\alpha) $$
+Using our initial conditions $v_0 = x_0$ and $u_0 = \lfloor \alpha x_0 \rfloor$:
+$$ \lim_{n\to\infty} \frac{x_n}{(\alpha + \beta)^n} = \frac{1}{2}\left(x_0 + \frac{\lfloor \alpha x_0 \rfloor}{\alpha}\right) $$
+
+### Final Answer
+
+The limit is computed as follows:
+1.  The non-linear recurrence $x_{n+1} = \beta x_n + \lfloor \alpha x_n \rfloor$ is shown to be one component of a 2D linear system of recurrences $\mathbf{v}_{n+1}=M\mathbf{v}_n$ with an integer matrix $M = \begin{pmatrix} \beta & \alpha^2 \\ 1 & \beta \end{pmatrix}$.
+2.  Let $v_n$ be the second component of $\mathbf{v}_n$. If we set initial conditions $v_0=x_0$ and $u_0=\lfloor \alpha x_0 \rfloor$, then $v_n = x_n$ for all $n \geq 0$.
+3.  The system is solved using eigenvalues and eigenvectors of $M$. The eigenvalues are $\lambda_1 = \beta+\alpha$ and $\lambda_2 = \beta-\alpha$.
+4.  The solution for $v_n$ is of the form $v_n = c_1(\beta+\alpha)^n + c_2(\beta-\alpha)^n$.
+5.  The desired limit is $\lim_{n\to\infty} \frac{v_n}{(\beta+\alpha)^n} = c_1$, because $|\beta-\alpha| < |\beta+\alpha|$.
+6.  The constant $c_1$ is determined from the initial conditions $u_0, v_0$.
+
+The final result is:
+$$ \lim_{n\to\infty} \frac{x_n}{(\alpha + \beta)^n} = \frac{1}{2}\left(x_0 + \frac{\lfloor \alpha x_0 \rfloor}{\alpha}\right) $$

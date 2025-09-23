@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 5,
+    "comment": "It is not clearly shown how the formulas for sums: $\\sum 1/(x-1)$ and $\\sum 1/(x-1)^2$ are derived. Moreover, the second formula is wrong and model ends at $7=-7$ to finally come to the correct answer.",
+    "types_of_mistakes": "4.11"
+}

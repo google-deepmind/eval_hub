@@ -1,0 +1,1 @@
+Let $N=2^{a} \cdot 3^{b} \cdot 5^{c} \cdot 79$ where $a,b,c$ are positive integers. The remainder of dividing $N$ by $16$, $27$ and $25$ equals to $8$, $3$ and $5$. Find $a+b+c$.

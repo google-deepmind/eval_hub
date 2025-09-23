@@ -1,0 +1,1 @@
+Consider the polynomial $p(n)=a n^5-11 n^3+12n$ for some positive integer $a$. Calculate the lowest value of $a$ such that $p(n)$ is a multiple of $8$ for any positive integer $n$.

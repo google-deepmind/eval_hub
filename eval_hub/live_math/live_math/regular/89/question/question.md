@@ -1,0 +1,1 @@
+There is a sequence of natural numbers in increasing order, starting with 0, 1, 2, 3, ... The number is marked if and only if it has an odd number of "ones" in its binary representation. Find the 2018-th marked number.

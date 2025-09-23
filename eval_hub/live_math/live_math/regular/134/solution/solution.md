@@ -1,0 +1,1 @@
+To prove the lower bound we can set $n=2$ and $a_1 = 1, a_2 = 0, b_1 = 0, b_2 = 1$. If we plug into the formula we get the factor of 2. To get the upper bound notice $max(\sum_{i=1}^n a_i, \sum_{i=1}^n b_i) \geq \sum_{i=1}^n \frac{1}{2}(a_i+b_i) \geq \frac{1}{2}  \sum_{i=1}^n max(a_i, b_i)$.

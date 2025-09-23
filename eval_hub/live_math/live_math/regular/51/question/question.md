@@ -1,0 +1,1 @@
+Find how many $3-$tuples of positive integers $(a,b,c)$ satisfy $a >b>c$, \ $a+b+c=21$ and $a,b,c$ are the lengths of the sides of a scalene triangle.

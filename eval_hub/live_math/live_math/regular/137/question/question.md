@@ -1,0 +1,1 @@
+Consider the sets $A=\{1,2,3,4,5,6\}$ and $B=\{1,2,3,\ldots,n\}$ for some positive integer $n \geq 11$. We choose at random two different numbers of $A$ and one number of $B$. If the probability that the number of $B$ is greater than the sum of the two elements of $A$ equals to $10/17$, calculate $n$.

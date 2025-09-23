@@ -1,0 +1,1 @@
+Let $\mathcal{S}$ be the commutative monoid of closed surfaces with the operation of taking the connected sum. Form the Grothendieck group $A(\mathcal{S})$ of this monoid. Let $G:=A(\mathcal{S}) / \langle X\rangle$ and compute the order of the element $Y \in G$ where $X$ and $Y$ are the surfaces shown below.

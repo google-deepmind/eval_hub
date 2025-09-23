@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 2,
+    "comment": "The model correctly described the set O and found only particular solutions.",
+    "types_of_mistakes": "7, 11"
+}

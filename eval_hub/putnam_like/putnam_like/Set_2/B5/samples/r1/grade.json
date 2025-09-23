@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 2,
+    "comment": "The model modified the LHS on its own",
+    "types_of_mistakes": "7, 11"
+}

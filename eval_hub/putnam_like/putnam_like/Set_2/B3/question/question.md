@@ -1,0 +1,1 @@
+Show that the number $(2m+1)^{2^n}-1$ has at least $n+1$ distinct prime divisors, where $m>1$.

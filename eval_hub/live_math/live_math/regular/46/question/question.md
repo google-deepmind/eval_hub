@@ -1,0 +1,1 @@
+We are given 4 circles such that every circle is tangent externally to exactly 2 other circles. The points of tangency are $A$, $B$, $C$, $D$, such that $|\angle ADC| = 47^{\circ}$. Find $|\angle ABC|$.

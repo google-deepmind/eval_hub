@@ -1,0 +1,1 @@
+There are 20 people on the corridor during a coffee break. Some of them started talking to each other. A discussion always takes place between exactly two people. During this break it was impossible to find such 3 people $A, B, C$, that $A$ talked to $B$, $B$ talked to $C$ and $C$ talked to $A$. What is the biggest possible numbers of discussions that could have taken place?

@@ -1,0 +1,1 @@
+We are given a triangle $ABC$ and its external angle bisectors at vertices $A$ and $B$, denoted as $l$ and $k$ respectively. The sides of triangle $ABC$ have lengths $|AB|=12$, $|BC|=14$, and $|CA|=10$. Points $X$ and $Y$ are the perpendicular projections of point $C$ onto $l$ and $k$ respectively. Calculate $|XY|$.

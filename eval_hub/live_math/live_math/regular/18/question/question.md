@@ -1,0 +1,1 @@
+Let $W(x) = 2x^3 + ax^2 + bx + c$ be a polynomial with real coefficients, such that $W(-1) = 0$, and other complex roots are of the form $z$, $3z + 1 + i$ for some complex number $z$. Find $a^2 + 8(b + c)$.

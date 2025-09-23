@@ -1,0 +1,1 @@
+Find the smallest positive integer greater than $10^6$ that is divisible by every integer $n$ such that $1 \leq n \leq 15$.

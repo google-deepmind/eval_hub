@@ -1,0 +1,1 @@
+The sum of integers from $n$ to $n+199$ is $100\cdot (2n+199)$. For it to be a square, $2n+199$ has to be a square. The smallest positive integer $n$ for which that is true, is $n = 13$, and then the square is equal to $100\cdot 225 = 22500$.

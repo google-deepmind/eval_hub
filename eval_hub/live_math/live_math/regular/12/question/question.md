@@ -1,0 +1,1 @@
+Anna has summed up all numbers from 1 to $n$. It turned out that the second last digit of the result is equal to $8$. What is the smallest possible $n$ for which this is possible?

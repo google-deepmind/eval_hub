@@ -1,0 +1,1 @@
+Marc has drawn on the blackboard three lines parallel to each other. Then Barbara has drawn four lines parallel to each other, but not parallel to Marc's lines. Afterwards, Ali has drawn five lines parallel to each other, but not parallel to Barbara's or Marc's lines. How many trapezoids, at most, are formed by some four of the lines drawn by Barbara, Marc and Ali?

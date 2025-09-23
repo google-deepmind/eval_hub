@@ -1,0 +1,1 @@
+There is a sequence of non-negative integers of length 9. The element at the 5th position is equal to 7. Count the number of ways we can fill the remaining elements such that, the elements from 1st to 5th element form a non-decreasing sequence and elements from 5th to 9th form a non-increasing sequence.

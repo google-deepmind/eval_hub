@@ -1,0 +1,2 @@
+Let $x,y$ be real numbers. Calculate how many $x$, $-10 \leq x \leq 10$ satisfy that there exists a real number $y$ such that the following expression is a positive integer:
+$$ \frac{x^2(x^2-2y)+y^2}{x^2-y} +\frac{x^2(x^2+2y)+y^2}{x^2+y}.$$

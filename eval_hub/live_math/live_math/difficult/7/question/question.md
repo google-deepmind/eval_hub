@@ -1,0 +1,1 @@
+Let $c_0, c_1, c_2, ..., c_{10}$ be $11$ real numbers and $x_1, x_2, ..., x_{10}$ be $10$ variables with values either $0$ or $1$. There is function $f:\{0,1\}^{10} \rightarrow \{0,1\}$ of the form $f(x_1, x_2, ..., x_{10})=c_0 + \sum_1^{10}c_i \cdot x_i$. How many such functions $f$ do exist?

@@ -1,0 +1,1 @@
+Lines parallel to the y-axis form an arithmetic progression. In arithmetic progression, the remainders modulo 7 are cyclic with period 7. In one period there are 2 elements on the 6th and 7th position that are divisible by 7. There are 64 lines less than 2024, out of which 18 are divisible by 7.

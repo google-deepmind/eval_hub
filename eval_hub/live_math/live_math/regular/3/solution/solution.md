@@ -1,0 +1,1 @@
+First add starting zeros until each number has exactly 2024 digits. Then notice that the binary representations are "symmetric" and each number has its complement, where we "flip" all the digits. It follows that exactly half of the digits are ones. Total number of digits is $2024 \cdot 2^{2024}/2$, and the answer is half of it.

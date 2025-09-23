@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 2,
+    "comment": "The proof that $a^{2^k}+1$ introduces a new prime divisor is incomplete",
+    "types_of_mistakes": "5, 11"
+}

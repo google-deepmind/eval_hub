@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "gemini pro",
+    "grade": 10,
+    "comment": "Correct solution, but a little bit long-winded. It is needed to compute limit at 0 not the value.",
+    "types_of_mistakes": null
+}

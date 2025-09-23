@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 9,
+    "comment": "The solution is correct. The model does not justify correctly that it can \"divide by matrices\"; it verifies only that the matrix is nonzero, not that its determinant is nonzero.",
+    "types_of_mistakes": "9"
+}

@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 5,
+    "comment": "The formula for the result is not proven (by induction, for example). The assumption of AM-GM is not verified.",
+    "types_of_mistakes": "9.11"
+}

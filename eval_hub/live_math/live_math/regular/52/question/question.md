@@ -1,0 +1,1 @@
+Calculate the highest positive integer $n$ for which $5^n$ divides to $2023!+2024!+2025!$

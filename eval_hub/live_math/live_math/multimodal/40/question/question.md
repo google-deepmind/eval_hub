@@ -1,0 +1,1 @@
+Assume that the sidelength of every square in the following image is 6. Let $R$ denote the radius of the circle. Calculate $R^2$.

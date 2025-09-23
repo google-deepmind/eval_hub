@@ -1,0 +1,1 @@
+If we look at the last digit of $11^x$, it is always $1$. On the contrary, the last digit of $5^y$ is always $5$. Therefore the minimum absolute difference is always at least $4$. The value $4$ can be attained for example when we set $x=2$ and $y=3$, because $|11^2-5^3|=|121-125|=4$.

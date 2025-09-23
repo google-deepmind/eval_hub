@@ -1,0 +1,1 @@
+From the Prüfer code we get all trees on $n$ vertices. If some vertex has degree $x$, then it occurs $x - 1$ times in the Prüfer sequence of length $n - 2$. Therefore we need to choose two positions for vertex 1 and four positions for vertex 2. At the other positions can be any of the remaining vertices. In total, we get $10\choose 2$$\cdot$$8 \choose 4$$\cdot 10^4$.

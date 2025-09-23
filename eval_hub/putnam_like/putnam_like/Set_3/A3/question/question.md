@@ -1,0 +1,1 @@
+There are three balls in the box: green (G), red (R) and blue (B). A player draws the ball randomly and returns it with one extra ball of the same colour. Find the probability that among $90$ moves the red ball was drawn exactly $45$ times.

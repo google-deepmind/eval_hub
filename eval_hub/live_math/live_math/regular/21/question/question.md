@@ -1,0 +1,2 @@
+Consider a 2-dimensional grid with an x-axis and y-axis. The grid lines parallel to the x-axis are spaced 1 unit apart. The grid lines parallel to the y-axis are spaced increasingly: the first step is 1 unit wide, the second is 2 units wide, the third is 3 units wide, and so on.
+Draw the line $y = \frac{1}{7}x$. How many grid points (i.e., intersections of horizontal and vertical lines) does this line pass through in the interval $x \in (1, 2024)$?$.

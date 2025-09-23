@@ -1,0 +1,1 @@
+In the Cinque country, two coins are in use. They have values $15$, $100$. Matthew has been wondering what amounts one can pay using those coins. He sorted all those amounts and wrote them in an increasing sequence $(a_1,a_2,a_3,\dots)$. Find the smallest term $a_i$ of the sequence such that the subsequence $(a_i,a_{i+1},a_{i+2},\dots)$ is an arithmetic progression.

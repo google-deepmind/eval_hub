@@ -1,0 +1,1 @@
+The minimal possible value of $117649a^6 + 14406a^4b^2 + 8b^6$ for positive real numbers $a$, $b$ satisfying $7a+2b = 35$, is a fraction $\frac{p}{q}$, where $p$ and $q$ are coprime positive integers. Find $p+q$.

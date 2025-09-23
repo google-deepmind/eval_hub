@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 2,
+    "comment": "The model correctly found all solutions, but it didn't show that these are all solutions. There is a try, using some numerical estimations and asymptotics, but not a rigorous proof.",
+    "types_of_mistakes": "1,2"
+}

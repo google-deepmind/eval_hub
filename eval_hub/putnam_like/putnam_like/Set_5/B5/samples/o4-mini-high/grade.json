@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 9,
+    "comment": "Missing details why arg P(z) = arg(z^8) + o(1). It is correct, but requires a short calculation.",
+    "types_of_mistakes": "7"
+}

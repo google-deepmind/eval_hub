@@ -1,0 +1,1 @@
+Eight people go to a hair salon where two hairdressers work. Each person has a different hair style and the time to get it cut with either of the two hairdressers is: $37,27,25,18,15,13,12$ and $9$ minutes. If they all arrive together at 11 AM and they leave at 12:X, AM at the earliest, calculate X.

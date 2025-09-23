@@ -1,0 +1,1 @@
+In a bag there are $26$ balls of three colors: white, red and black. Knowing that $11$ balls are red and that the probability of drawing two white balls is $7/25$, calculate the probability of drawing two black balls.

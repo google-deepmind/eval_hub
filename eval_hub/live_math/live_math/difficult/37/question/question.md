@@ -1,0 +1,1 @@
+Polynomial $P$ has the property, that $P(a) = P(a+10) = 2024$ for some $a \in \mathbb{N}$, and there are no other solutions of $P(x) = 2024$. Moreover, it has only integer coefficients. Determine the number of integer solutions of the equation $P(x) = 2031$.

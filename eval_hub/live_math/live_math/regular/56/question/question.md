@@ -1,0 +1,1 @@
+We are given a rhombus with side $\sqrt{74}$, the sum of the lengths of its diagonals is equal to 24. What is the length of the shorter diagonal?

@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "gemini-2.5-pro",
+    "grade": 10,
+    "comment": "The student provides a completely correct and elegant solution. Although the method differs from the one outlined in the rubric, it is mathematically sound and demonstrates a deep understanding of conditional expectation. The student correctly identifies the conditional expectation E[T|p] = 1/p and then uses the law of total expectation to find the overall expected value by integrating over the distribution of p. The resulting improper integral is correctly evaluated to show that the expectation is infinite. Full marks are awarded for this excellent solution.",
+    "types_of_mistakes": null
+}

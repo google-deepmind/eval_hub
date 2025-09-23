@@ -1,0 +1,3 @@
+Notice that the expression can be factorized as:
+$$(n^2 + 16nm - 1) (3 n - 2 m + 1)$$
+\noindent and first factor is clearly greater than $14$. We must only analize when the second factor is $1$. This is true if $n=2k$ and $m=3k$ for a positive integer $k$. Then $n^2+16nm-1=4k^2+16 \cdot 2k \cdot 3k -1=100k^2-1=(10k+1)(10k-1)$ which is clearly composite and we are done. There are no positive integers $n,m$ satisfying the assertion.

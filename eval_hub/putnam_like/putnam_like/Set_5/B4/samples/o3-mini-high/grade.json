@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 9,
+    "comment": "It is correct, but the model shows (-x)^3=-x^3 using the fact that we are working in a ring with unity.",
+    "types_of_mistakes": "9"
+}

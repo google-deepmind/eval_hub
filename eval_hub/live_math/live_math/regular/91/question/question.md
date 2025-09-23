@@ -1,0 +1,1 @@
+A triangle has sides $13$, $14$, $15$. Find the radius of its incircle.

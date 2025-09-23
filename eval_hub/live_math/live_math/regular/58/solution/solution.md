@@ -1,0 +1,1 @@
+We want $2^n\equiv 3^n\pmod{13}$. As in $\mathbb{Z}/13\mathbb{Z}$ we have $2/3 = 2\cdot 9 = 5$, this is equivalent to $5^n\equiv 1\pmod 13$. We quickly see that $5^2 = 25\equiv -1\pmod 13$, hence the order of $5$ modulo $13$ is $4$. Hence the condition means that $n$ is divisible by $4$.

@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 0,
+    "comment": "The model claims wrongly that such a sequence does not exist. Construction of a counterexample is wrong (such a function cannot be continuous if z_n accumulate somewhere).",
+    "types_of_mistakes": "4,9,11"
+}

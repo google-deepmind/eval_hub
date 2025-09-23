@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 1,
+    "comment": "The ratio of the terms is computed correctly but it is not proven that this ratio is $> 1$. ",
+    "types_of_mistakes": "10"
+}

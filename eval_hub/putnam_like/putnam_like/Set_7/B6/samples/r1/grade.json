@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 0,
+    "comment": "The model mistakenly assumes that the sequence $n\\alpha$ exhibits regular behaviour, which is not the case.",
+    "types_of_mistakes": "11"
+}

@@ -1,0 +1,1 @@
+Find the size of the largest set $S$ of divisors of number 2024 such that, there are no two different $x, y \in S$ and x divides y.

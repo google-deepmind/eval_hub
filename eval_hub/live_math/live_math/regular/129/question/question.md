@@ -1,0 +1,1 @@
+Find the smallest perfect square which is a sum of 200 consecutive positive integers.

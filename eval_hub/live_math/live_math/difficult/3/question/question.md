@@ -1,0 +1,1 @@
+Find the maximal positive integer $n$ with the following property: whenever 15 positive integers $a_1$, $a_2$, \dots, $a_{15}$ satisfy $a_1+a_2+\dots+a_{15} = n$, there exist pairwise distinct $i,j,k\in\{1,2,\dots,15\}$ such that $a_i$, $a_j$ and $a_k$ are side lengths of a triangle.

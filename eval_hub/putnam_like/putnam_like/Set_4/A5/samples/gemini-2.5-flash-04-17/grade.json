@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "gemini flash",
+    "grade": 2,
+    "comment": "Step 1 and Step 2 are correct, later the model tries to use approximations and verify only particular cases.",
+    "types_of_mistakes": "2,7,11"
+}

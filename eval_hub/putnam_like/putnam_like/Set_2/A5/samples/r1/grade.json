@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 3,
+    "comment": "Interesting idea involving Schur-Zussenhaus theorem. Unfortunatelly, almost all explanations of details are skipped or wrong. It is not explained why the automorphism group is used. ",
+    "types_of_mistakes": "5,6,11"
+}

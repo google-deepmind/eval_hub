@@ -1,0 +1,1 @@
+In a triangle, the distance between its barycentre and circumcentre is $34$. Find the distance between the circumcentre and orthocentre.

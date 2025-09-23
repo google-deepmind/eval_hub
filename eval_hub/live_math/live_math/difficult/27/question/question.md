@@ -1,0 +1,1 @@
+We call a sequence $a_1, ..., a_n$ of positive integers valid if and only if for $i=1, 2, ..., n - 1$, there exist non-negative integers $x, y$ such that $a_{i+1} = 2^x \cdot 3^y \cdot a_i$. What is the minimum number of valid sequences we can split integers from 1 to 200 into, such that each each integer from 1 to 200 is in exactly one valid sequence?

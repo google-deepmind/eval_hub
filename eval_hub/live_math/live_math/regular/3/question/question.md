@@ -1,0 +1,1 @@
+The digit sum of a binary number is the number of "ones" in its binary representation. Let $x$ be the sum of digit sums of all positive integers less than $2^{2024}$. Find the $x$ mod 13.

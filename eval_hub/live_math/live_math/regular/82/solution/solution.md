@@ -1,0 +1,1 @@
+Notice that $\{A,B,C,D\}=\{1,3,7,9\}$ since the four two-digit numbers are prime and end with these four different digits. Since $93$ and $91$ are not prime, we must consider $97$ and then the numbers are $97, 73, 31, 19$ so the set $X$ is unique.

@@ -1,0 +1,1 @@
+Let $x$ and $y$ be integers. Numbers $9x-7y+2025$ and $9y-7x-2$ give the same remainders when divided by 2027. Find the remainder of the division of $x-y$ by 2027.

@@ -1,0 +1,1 @@
+The exam period is 5 days long. You have 11 different exams to take and each exam can be taken on any day of the exam period. You want to spread to workload reasonably, therefore you want to take at least one exam each day. In how many ways can you arrange the exam schedule?

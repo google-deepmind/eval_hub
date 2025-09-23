@@ -1,0 +1,1 @@
+Let $n$ be a positive integer. A triangular number $T_n$ is given by $T_n=1 + 2 + \cdots + n$. Calculate how many pairs of positive integers $(n,m)$ satisfy $T_n-T_m = 2025$.

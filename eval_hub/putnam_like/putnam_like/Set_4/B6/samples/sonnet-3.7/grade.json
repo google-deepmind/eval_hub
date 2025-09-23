@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 0,
+    "comment": "The counterexample is wrong (\\varphi is not continuous).",
+    "types_of_mistakes": "4,9,11"
+}

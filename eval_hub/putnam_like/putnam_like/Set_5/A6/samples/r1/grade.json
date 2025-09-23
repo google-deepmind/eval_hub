@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 0,
+    "comment": "First the model simplifies considerations only to the symmetric case. And even then it cannot correctly pass to the limit (it computes it wrongly). Again no details are provided.",
+    "types_of_mistakes": "7,11"
+}

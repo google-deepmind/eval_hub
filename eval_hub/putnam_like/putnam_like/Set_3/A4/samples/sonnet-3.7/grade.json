@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 8,
+    "comment": "The solution is correct, but the model didn't prove that $a_n>\frac{1+2^{2n}}{2}$. Moreover, the formula $a_{n+1} = 20a_n + 66b_n$ should be justified.",
+    "types_of_mistakes": "11"
+}

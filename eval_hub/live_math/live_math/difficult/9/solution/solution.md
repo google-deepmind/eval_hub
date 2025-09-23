@@ -1,0 +1,1 @@
+It is easy to calculate numbers which does not repeat digits: $10 \times 9 \times 8 \times 7=5040$ so the probability is $1-5040/10000=0.496$ and the answer is $496$.

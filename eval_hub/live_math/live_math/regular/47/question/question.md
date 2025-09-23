@@ -1,0 +1,1 @@
+Find the minimal possible value of $KL^2+LM^2+MN^2+NK^2$ for $K$, $L$, $M$, $N$ on the sides $AB$, $BC$, $CD$, $DA$, respectively, of a square $ABCD$ with the side of length 24.

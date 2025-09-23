@@ -1,0 +1,1 @@
+There are 10 filled circles with diameters from 1 to 10. Then we stack them onto the stick such that every circle has its center on the stick. In how many ways we can stack the circles on the stick in such a way that there are exactly 3 circles visible if we look from the top?

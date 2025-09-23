@@ -1,0 +1,3 @@
+The shortest path will involve going through two faces. Those will be of the sizes $a\times b$ and $b\times c$, where $a$, $b$, $c$ are the edge lengths of the cuboid, in some order. If we spread out such two squares on a plane, they form a rectangle $b\times (a+c)$. Then the shortest path will be diagonal in this triangle, so of length $\sqrt{b^2+(a+c)^2}$. This equals $\sqrt{a^2+b^2+c^2+2ac}$. The value $a^2+b^2+c^2$ is independent of the order of $a$, $b$, $c$, hence we have to minimise $ac$. This will be minimal when $a$ and $c$ are $9$ and $40$ (in some order). In that case the length is
+ 
+$$\sqrt{1200^2 + 49^2 } = 1201.$$

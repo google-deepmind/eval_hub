@@ -1,0 +1,1 @@
+We can write $9x - 7y + 2025 \equiv_{2027} 9y - 7x -2$. Thus $16x - 16y + 2027 \equiv_{2027} 0$. 2027 is of course divisible by 2027, so this statement is equivalent to $16x \equiv_{2027} 16y$. But 16 and 2027 are coprime, so we can divide by 16. It means that $x$, $y$ give the same remainders, so $x-y$ gives remainder 0.

@@ -1,0 +1,1 @@
+A sum of $33$ consecutive integers is equal to $33$ times the middle one, hence our number has to be divisible by $33$. Analogously, it has to be divisible by $101$. Hence it has to be divisible by $3333$ and clearly that number satisfies the conditions.

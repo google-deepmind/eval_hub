@@ -1,0 +1,1 @@
+After multiplying both sides of the given equation by 2, we can write it as $(x-y)^2 + (x-2)^2 + (y-4)^2 = 0. This equation has clearly no solutions in real numbers.

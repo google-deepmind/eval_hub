@@ -1,0 +1,1 @@
+Let $(m_k) \subset \mathbb{N}$ be an increasing sequence such that $m_k \to \infty$. Suppose that $(a_k) \subset \mathbb{R}$ is a sequence such that for every $\gamma > 1$, $a_{\lfloor \gamma^{m_k} \rfloor} \to 0$ as $k \to \infty$. Is that true that $a_k \to 0$?

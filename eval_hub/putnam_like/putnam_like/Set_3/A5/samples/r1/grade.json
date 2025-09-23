@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 9,
+    "comment": "The Fourier transform of $e^{-x^2/2}$ should be defived explicitely or referenced.",
+    "types_of_mistakes": "11"
+}

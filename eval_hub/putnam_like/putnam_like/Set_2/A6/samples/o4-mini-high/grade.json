@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 0,
+    "comment": "There is a mistake in step 2: the equation at the end is $h(2x)h(x)=h(x^2)$. It is not clear how it could force that $h$ is constant. The model found the solution $f(x)=1/x$ but with a wrong method and didn't verify it, so one can not give a point for the correct answer.",
+    "types_of_mistakes": "4"
+}

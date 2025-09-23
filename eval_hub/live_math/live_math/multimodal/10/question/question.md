@@ -1,0 +1,1 @@
+The picture below depicts a Riemann surface $S$ together with a divisor $D \in \operatorname{Div}(S)$ represented by the weighted points. Compute the dimension of the space of holomorphic sections of the line bundle $\mathcal{O}_{S}(D)$ associated to $D$.

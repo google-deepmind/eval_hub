@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 0,
+    "comment": "The solution is wrong. Model claims that the minimum is attained at a constant function.",
+    "types_of_mistakes": "4"
+}

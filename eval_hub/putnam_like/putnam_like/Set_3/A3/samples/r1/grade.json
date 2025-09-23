@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 10,
+    "comment": "The model correctly recognized the Polya urn model and used standard formulas.",
+    "types_of_mistakes": null
+}

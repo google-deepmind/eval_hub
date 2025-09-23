@@ -1,0 +1,1 @@
+Find the minimal possible value of $KL+LM+MN+NK$ for $K$, $L$, $M$, $N$ on the sides $AB$, $BC$, $CD$, $DA$, respectively, of a square $ABCD$ with the area 288.

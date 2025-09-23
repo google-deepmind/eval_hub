@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 1,
+    "comment": "The general outline of solution is given, but all details are skipped. It should be explained why the unique Sylow's group is normal. The abelianity should be proved involving the concept of subgroups and Lagrange's theorem. In the solution is also assumed that $q^2<p$ which not an assumption of the problem. ",
+    "types_of_mistakes": "3,6,7,11"
+}

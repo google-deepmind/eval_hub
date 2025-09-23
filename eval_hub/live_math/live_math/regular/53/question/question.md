@@ -1,0 +1,1 @@
+How many 3-digit numbers divide $2^{24}-2^{20}$?

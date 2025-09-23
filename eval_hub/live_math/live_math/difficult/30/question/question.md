@@ -1,0 +1,3 @@
+We have a deck of 2024 cards enumerated with numbers $1, 2, \ldots, 2024$. For every $i=1,2, \ldots, 2015$ in the $i$-th step we choose uniformly at random 10 cards $C_{1,i}, C_{2,i},\ldots, C_{10,i}$ and we set $C_i := \min_{j=1,\ldots,10} C_{j,i}$. Then we return the remaining 9 cards to the deck.  For $i=2015, \ldots, 2024$ we just set the remaining cards in increasing order as $C_{2015},C_{2016}, \ldots, C_{2024}$. Determine the value of \begin{align*}
+        \mathbb{P}(C_{4}=5)+\mathbb{P}(C_{24}=12) - \mathbb{P}(C_{5}=4) - \mathbb{P}(C_{12}=24).
+    \end{align*}

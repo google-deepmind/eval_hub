@@ -1,0 +1,1 @@
+A rectangle $ABCD$ is given with $AB = 1800$, $BC = 960$. The circle $o_1$ is tangent to its diagonals in the points $A$ and $B$, the circle $o_2$ in the points $B$ and $C$, the circle $o_3$ in the points $C$ and $D$, and the circle $o_4$ in the points $D$ and $A$. Find the perimeter of the quadrilateral with vertices in the centres of the circles $o_1$, $o_2$, $o_3$, $o_4$.

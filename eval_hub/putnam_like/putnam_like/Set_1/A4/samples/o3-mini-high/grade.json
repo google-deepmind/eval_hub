@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 4,
+    "comment": "Interesting idea. Reference to a diheral group has to be precise (step 2) and van Dyck's Theorem should be used. Actually, van Dyck's Theorem and the theory of dihedral groups solves the problem.",
+    "types_of_mistakes": "6,7,11"
+}

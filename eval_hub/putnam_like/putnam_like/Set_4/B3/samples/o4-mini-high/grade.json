@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 1,
+    "comment": "The solution contains a mistake that phi''(x)>0 for all x and all p>0, which is not true for p<1.",
+    "types_of_mistakes": "7.8"
+}

@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 3,
+    "comment": "Upper bound is done correctly, but the inequality in step 3 should be explained better . For the lower bound the step 3 is wrong. This inequality does not hold if $t \\to 1$.",
+    "types_of_mistakes": "4"
+}

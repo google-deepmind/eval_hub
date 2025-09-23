@@ -1,0 +1,1 @@
+Camille has 400 sticks, of lengths $101\,\mathrm{mm}$, $102\,\mathrm{mm}$, $103\,\mathrm{mm}$, $\dots$, $500\,\mathrm{mm}$. In how many ways can he pick three of them such that they can be joined together to form three sides of a triangle? We count triples differing by order only as one.

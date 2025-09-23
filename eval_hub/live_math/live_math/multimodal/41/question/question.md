@@ -1,0 +1,1 @@
+Assume that the diameters of the yellow, red and blue semicircles shown are $4$, $6$, and $15$ respectively. Calculate the diameter of the light grey semicircle.

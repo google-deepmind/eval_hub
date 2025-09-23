@@ -1,0 +1,1 @@
+In a square $ABCD$, there is a point $M$ such that $AM = 2$, $DM = 4$, and $CM = 6$. Find the measure of the angle $\angle AMD$ in degrees.

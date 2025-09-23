@@ -1,0 +1,1 @@
+Katie wrote the number 20241 on the blackboard. In one step she has two possibilities: either she changes the order of the digits in the number written on the board, or she adds 1 both to the middle and the last digit. What is the smallest number of steps in which she can obtain 54442?

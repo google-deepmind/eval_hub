@@ -1,0 +1,1 @@
+By rotation of a rectangular triangle around the hypotenuse we obtain a rotational object, that can be decomposed into two cones. The volumes of these two cones have a ratio of 9:1. Find the ratio between the longer and shorter leg of the original triangle.

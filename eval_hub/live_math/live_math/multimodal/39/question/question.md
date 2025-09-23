@@ -1,0 +1,1 @@
+The figure shows the subset of the $(x,y)$ plane defined by the equation $7y^2 = 13x^3 + ax^2$. The coordinate axes have been wiped out. Find the value of $a$, knowing that the two tangents to the point $A$ are perpendicular.

@@ -1,0 +1,1 @@
+What is the minimum number $n$ such that there exist exactly $3$ different bases $b>1$ of the positional number systems such that $n$ can be expressed as repeating digits "$1$" in base $b$?

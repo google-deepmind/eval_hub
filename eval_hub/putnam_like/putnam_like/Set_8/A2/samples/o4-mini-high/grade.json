@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 0,
+    "comment": "The solution is wrong; it checks only the degenerate situation. At the parameter B one should choose the opposite sign.",
+    "types_of_mistakes": "4"
+}

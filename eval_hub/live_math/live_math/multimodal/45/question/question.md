@@ -1,0 +1,1 @@
+The image shows a 5x5 grid with cells colored blue, green, red, or yellow. Initially, the grid has 3 blue cells and 22 non-blue cells. Count the number of different color patterns we can obtain by changing the color of exactly 3 cells, such that the final pattern has at least 4 blue cells.

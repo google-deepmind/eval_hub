@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 0,
+    "comment": "It is true that $det(A)<0$ implies an odd number of negative eigenvalues. But there could also be an odd number of positive eigenvalues, so there is no contradiction on parity.",
+    "types_of_mistakes": "4"
+}

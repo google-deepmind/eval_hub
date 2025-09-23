@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 8,
+    "comment": "The usage of approximation is non-strict. Big O notation could be used insted.",
+    "types_of_mistakes": "2"
+}

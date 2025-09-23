@@ -1,0 +1,1 @@
+Adding the two equations we obtain $2a=62$ so $a=31$. Then $b+c=18$ and there are only two options: $(b,c)=(11,7)$ and $(b,c)=(13,5)$. Then $a+b \cdot c=31 +11 \cdot 7=108$ and we are done.

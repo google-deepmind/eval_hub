@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 6,
+    "comment": "In the part (b) it is shown that if polynomial exists, it agrees with a rational function at points 1/k. It is not shown that then this functions are equal everywhere.",
+    "types_of_mistakes": "4,11"
+}

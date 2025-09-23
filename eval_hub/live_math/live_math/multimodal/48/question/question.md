@@ -1,0 +1,1 @@
+The cube on the right is formed using the pieces on the left. How many white pieces have been used?

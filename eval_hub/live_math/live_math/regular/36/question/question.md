@@ -1,0 +1,1 @@
+How many three-digit numbers $\overline{ABC}$ (that is, $A \neq 0$) equals to $2(A+B+C)^2$?

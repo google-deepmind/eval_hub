@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 1,
+    "comment": "Correct verification of the vertex x=y=z, no details about the rest of the cases (model uses inequalites that are not shown). Moreover, there are errors, e.g. in step 2, for (x,y,z)=(1,1,4) one must prove\n(2k)! + (n+m)! >= (n+k)! + (m+k)!.\nHowever, the proposed inequality\n(2k)! + (2\\cdot\\frac{n+m}{2})! >= 2(k+\\frac{n+m}{2})!\nbears no relation to (n+k)! or (m+k)!). ",
+    "types_of_mistakes": "7.11"
+}

@@ -1,0 +1,1 @@
+How many 9-digit positive integers are there, satisfying the condition that the product of every 3 consecutive digits equals 12?

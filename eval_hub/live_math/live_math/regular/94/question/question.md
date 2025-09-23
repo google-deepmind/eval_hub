@@ -1,0 +1,1 @@
+Let $n$ be an arbitrary positive integer. Find the reminder from dividing $n^{10} - 2n^6 - 7n^5 + n^2 + 37n + 60$ by 30.

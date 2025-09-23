@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 3,
+    "comment": "The claim that $f$ is a linear involution is true, but not sufficient. They should be described. Moreover, it should be shown that involutions satisfy the given equation.",
+    "types_of_mistakes": "4,10"
+}

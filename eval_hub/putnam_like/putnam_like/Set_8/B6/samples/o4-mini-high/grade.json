@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 6,
+    "comment": "There is small (without further impact) mistake with the coeff of f'''. It is not mentioned that we can differentiate further but it is needed in this solution. The expansion of $f''\\bigl(\\sqrt{a(a+h)}\\bigr)$ is not given in details. It is not clear what is done in this place. It is not explained why coefficients of $h^2$ have to be equal in the expressions involving big-O notation. ",
+    "types_of_mistakes": "8"
+}

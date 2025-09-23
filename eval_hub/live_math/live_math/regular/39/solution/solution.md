@@ -1,0 +1,1 @@
+This means that $n\equiv 7\pmod 8$. And we know that $n$ is from $100$ to $999$. The first one which works is then $103$, the last one is $999$. This gives $1 + (999-103)/8 = 113$ numbers.

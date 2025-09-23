@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 1,
+    "comment": "The model makes an ansatz that the function has a special form. It is not show that the given function is a unique solution of the problem.",
+    "types_of_mistakes": "12"
+}

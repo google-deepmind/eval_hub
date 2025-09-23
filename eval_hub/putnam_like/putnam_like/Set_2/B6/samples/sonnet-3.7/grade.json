@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 0,
+    "comment": "The model noticed that the left-hand side is a Fourier transform and provided the value of the integral, then claimed that the right-hand side equals this value, and therefore the equality holds",
+    "types_of_mistakes": "6;7,11"
+}

@@ -1,0 +1,1 @@
+Find all the real numbers $x$ such that its distance to $5/6$ is twice its distance to $7/8$. Take the biggest of these numbers and represent it as n/m where n,m are positive numbers without common divisors. What is the sum of n+m?

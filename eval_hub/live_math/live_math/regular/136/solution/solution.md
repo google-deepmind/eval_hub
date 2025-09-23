@@ -1,0 +1,1 @@
+Notice that the function is symmetric with respect to its inflection point. To calculate it, $p''(x)=6x-4$ so $p''(x)=0$ if and only if $x=4/6=2/3$ and $p(2/3)=65/27$. Hence $5-65/27=65/27-a/b$ so $a/b=-5/27$ so the answer is $|-5|+|27|=32$.

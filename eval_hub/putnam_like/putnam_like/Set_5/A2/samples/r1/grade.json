@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 3,
+    "comment": "The model operates on infinite sums without verification of the convergence. And doesn't notice anything about it.",
+    "types_of_mistakes": "9"
+}

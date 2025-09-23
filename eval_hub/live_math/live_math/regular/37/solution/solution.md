@@ -1,0 +1,3 @@
+Notice that if the length of the jump is $k < 16$, then the number of rounds is:
+$$\left\{ \begin{array}{lcc} 1 & if & lcm(k,8)=\max \{8,k\} \\ \\ j & if & k=2^{m} \cdot j  \mbox{ for } j \mbox{ an odd number and } m \leq 3 \end{array} \right.$$
+Let $a_k$ be the number of rounds of the jumps of length $k$. Then $a_1+a_2+\cdots+a_{10}+a_{11}= 1+1+3+1+5+4+7+1+9+4+11=47$ and $a_{12}=2,a_{13}=13,a_{14}=4$ by the comments above so the sum until $a_{14}$ equals to $66$ and we conclude that last jump was of length $15$.

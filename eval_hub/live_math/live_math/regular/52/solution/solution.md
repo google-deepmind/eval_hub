@@ -1,0 +1,1 @@
+Making easy calculations we have that $2023!+2024!+2025!=2023! \cdot 2025^2$. In $2023!$ we have: $3$ times $5^4$, $16$ times $5^3$, $80$ times $5^2$ and $404$ times $5^1$. Hence we count $3+16+80+404=503$. But in $2025^2=45^4=9^4 \cdot 5^4$ so we must add $4$ more so we obtain $503+4=507$.

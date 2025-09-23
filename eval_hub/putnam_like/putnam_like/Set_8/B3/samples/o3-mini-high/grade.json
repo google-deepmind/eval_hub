@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 0,
+    "comment": "In this solution there are a lot of mistakes; for example $Bigl(\\frac{1}{n}\\Bigr)^{\\!1/n}\\le \\frac{1}{n}$ is false, then in the next line the direction of the inequality is wrong. The inequalities with $a$ cannot be valid for any $a$. Using the quantiles looks as a very interesting idea but the inequalites $f\\Bigl(q_{1-1/n}\\Bigr)\\le \\mathbb{E}[f(X)]\\le f\\Bigl(q_{1/n}\\Bigr).$ should be definitely proven, but even then this does not lead to to complete solution.",
+    "types_of_mistakes": "4"
+}

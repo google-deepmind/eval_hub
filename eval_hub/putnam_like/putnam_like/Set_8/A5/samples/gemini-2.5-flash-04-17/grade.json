@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "gemini flash",
+    "grade": 2,
+    "comment": "Model uses approximations without controling the error term for the integral. ",
+    "types_of_mistakes": "2"
+}

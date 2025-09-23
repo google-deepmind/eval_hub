@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 6,
+    "comment": "There is no argument that we can expand Taylor series up to the 4th term (1st step, -2pts). In step 3. the second equation is wrong (if the upper formula is differentiated -  we cannot get the precise coefficients when some powers of x are hidden in O(h^4)) or just unexplained (if there is a Taylor expansion of $f''$ around  $x$). By this reason one cannot be sure that the coefficient of f''(x) is 4h^2. Finally, it should be explained why the coefficients of like powers of $h$ have to be equal. Note that we don't consider polynomials but some expressions with big-$O$ notation. The answer is correct.",
+    "types_of_mistakes": "2,9"
+}

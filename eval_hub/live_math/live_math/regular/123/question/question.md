@@ -1,0 +1,1 @@
+In rectangle $ABCD$ the side $AD$ is $60\%$ shorter than the side $AB$. The point $E$ lies on the side $AB$ and $\frac{AE}{AB} = \frac15$. Find the measure of the angle $CED$, in degrees.

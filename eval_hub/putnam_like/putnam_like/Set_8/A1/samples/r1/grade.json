@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 0,
+    "comment": "First the model conducts some computational errors, then from the inequality between a rational and irrational number it deduces that N=0.",
+    "types_of_mistakes": "4,8"
+}

@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 6,
+    "comment": "4 points for finding a counterexample for one implication, 2 points for finding all squares in F_7. The other implication is shown incorrectly.",
+    "types_of_mistakes": "5"
+}

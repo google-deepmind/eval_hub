@@ -1,0 +1,1 @@
+Prove that $\lceil (\sqrt {11}+3)^{2n}\rceil$ is divisible by $2^{n+1}$ for any $n\geq 1$.

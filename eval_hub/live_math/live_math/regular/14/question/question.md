@@ -1,0 +1,1 @@
+Find the sum of all the positive integers $n$ with the following property: there exist two four-digit positive integers whose sum is $n$ and such that when one writes one of them right after the other, the written eight-digit number is equal to $4567n$.

@@ -1,0 +1,1 @@
+The sum of four positive integers is $2024$. The second of these numbers is obtained by removing the last digit from the first number, the third number is obtained by removing the first digit from the second number, and the fourth number is obtained by removing the last digit from the third number. Find the largest of these four numbers.

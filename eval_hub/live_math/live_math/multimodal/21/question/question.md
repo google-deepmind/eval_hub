@@ -1,0 +1,1 @@
+Michael has arranged some abelian groups on a blackboard into exact sequences, three horizontal and three vertical. An imp has come and erased five of the groups, replacing them with white clouds. The result can be seen in the picture. What is the order of the group that was written at the position labeled with the question mark?

@@ -1,0 +1,1 @@
+13000 girls are standing equally spaced in a circle. Each of them is wearing a hat in one colour. Each of them noticed that none of the 100 girls closest to her wears a hat of the same colour as she. What is the minimal number of different colours for which this is possible?

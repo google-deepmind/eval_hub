@@ -1,0 +1,1 @@
+Let $x$, $y$, $z$ be the lengths of the 3 parts of the ribbon at the beginning. From Anna's observations we obtain the system of equations: $\frac{4}{3}x = \frac{3}{4}y = x+y+z - \frac{4}{3}x - \frac{3}{4}y$. Solving it, we conclude that $x = \frac{9}{11}z$ and $y = \frac{16}{11}z$. So $\frac{z}{x+y+z} = \frac{11}{36}$, and thus the answer is -25.

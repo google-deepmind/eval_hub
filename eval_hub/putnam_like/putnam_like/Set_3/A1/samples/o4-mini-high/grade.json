@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 2,
+    "comment": "Simplification of the ratio $a_{n+1}/a_n$ is omitted in the solution. The study of $f(x)>0$ by Taylor expansion is a huge mistake - it could provide only the estimation for large n (but the precise explanation needs to be provided and one can not use bog O notation). The usage of log function is a good idea.",
+    "types_of_mistakes": "7, 4"
+}

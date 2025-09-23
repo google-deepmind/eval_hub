@@ -1,0 +1,1 @@
+Consider the hexagon shown, which is composed of equilateral triangles of unit side length. Find the number of ways to tessellate this hexagon using rhombi, where each rhombus is composed of two adjacent equilateral triangles as shown.

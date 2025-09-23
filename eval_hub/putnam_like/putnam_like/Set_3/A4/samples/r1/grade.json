@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 2,
+    "comment": "The first statement is correct if we prove that $S_n$ is an integer. The recurrence for $S_n$ is wrong. The solution is based on argument about divisibility of $T_{2k+1}$ and it is mentioned that this fact was proven in lemma, however there is no lemma and any study of $T_{2k+1}$ in this solution.",
+    "types_of_mistakes": null
+}

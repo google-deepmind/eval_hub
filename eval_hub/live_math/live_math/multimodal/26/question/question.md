@@ -1,0 +1,1 @@
+Let $X$ be the 4-dimensional manifold with boundary represented by the Kirby-diagram below. Compute the number $\text{rank}(H_0(X)) + \text{rank}(H_1(X)) + \text{rank}(H_2(X)) + 2\tau(X)$, where $\tau(X)$ denotes the order of the torsion part of $H_{*}(X)$.

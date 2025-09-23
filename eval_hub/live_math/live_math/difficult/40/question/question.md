@@ -1,0 +1,1 @@
+How many tuples $(x_1,x_2,x_3,x_4,x_5,x_6,x_7,x_8,x_9,x_{10})$ are there, where $x_i\in \{1,2,3,\dots,30\}$ for $i=1,2,\dots,10$ and $x_1+x_2+\dots+x_{10}-1$ is not divisible by $31$?

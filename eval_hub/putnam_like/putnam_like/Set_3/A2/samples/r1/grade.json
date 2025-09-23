@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 2,
+    "comment": "The correct idea is given, but nothing is done in details. In step 3 we doesn't see formula that allows to compute $p_{n+1}$ with $p_n$.",
+    "types_of_mistakes": "11"
+}

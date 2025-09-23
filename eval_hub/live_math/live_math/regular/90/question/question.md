@@ -1,0 +1,1 @@
+For a tree t, denote by d the maximum degree of a vertex in t. Among all rooted trees with 64 leaves, such that each leaf is at distance at most 3 from the root, find a tree with the smallest value of d. As an answer write the value of d.

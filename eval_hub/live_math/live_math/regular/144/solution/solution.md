@@ -1,0 +1,1 @@
+Notice that the highest number of two digits is given by $99$. The quotient of $9802$ divided by $99$ is given by $99$ but the remainder is $1$ so we need at least $100$ two-digit numbers.

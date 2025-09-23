@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 0,
+    "comment": "Analysis based only on examples of f; moreover there are some missing calculations (where K and L come frome?)",
+    "types_of_mistakes": "4,7,8,11"
+}

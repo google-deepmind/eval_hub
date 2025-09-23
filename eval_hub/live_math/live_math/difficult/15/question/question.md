@@ -1,0 +1,1 @@
+How many sequences $(a_1, ..., a_{360})$ of positive integers are there such that all the terms are pairwise distinct and $a_i$ divides $a_{i-1}+1$ for $i=1,2,3,\dots,360$? We let $a_0 = a_{360}$.

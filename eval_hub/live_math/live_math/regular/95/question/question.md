@@ -1,0 +1,1 @@
+Find the smallest possible positive integer which is a sum of $33$ consecutive integers, but also a sum of $101$ consecutive integers.

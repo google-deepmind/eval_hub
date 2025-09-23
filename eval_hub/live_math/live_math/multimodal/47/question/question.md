@@ -1,0 +1,1 @@
+In the image there are circles with denoted centers. We can adjust the radii of the circles in such a way that after the adjustment no circle is inside another and any two circles are touching if and only if they were touching before the adjustment. Find the maximum possible sum of areas of the circles after the adjustment. Write the answer rounded to the nearest integer.

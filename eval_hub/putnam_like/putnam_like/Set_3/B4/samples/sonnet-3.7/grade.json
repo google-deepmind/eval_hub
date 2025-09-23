@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "sonnet",
+    "grade": 8,
+    "comment": "The usage of approximations is not precise - it is not written what $\\sim$ mean. The sum of fourth powers is not a well-known formula and should be proven. ",
+    "types_of_mistakes": "2.6"
+}

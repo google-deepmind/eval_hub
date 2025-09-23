@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 7,
+    "comment": "The solution is almost correct. The case x<0 requires some additional justification.",
+    "types_of_mistakes": "11"
+}

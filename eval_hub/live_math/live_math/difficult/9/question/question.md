@@ -1,0 +1,1 @@
+Pick a number between 0000 and 9999 at random. Calculate the probability that it has repeated digits and give the answer multiplied by $1000$.

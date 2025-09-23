@@ -1,0 +1,1 @@
+Consider the equilateral triangle $ABC$ whose vertices $A$, $B$ lie on the parabola presented in the following picture, $AB$ is parallel to the $x$-axis and $C$ is the point presented in this picture. The area of $ABC$ can be represented as $\frac{a}{\sqrt{b}}$ for some integers $a, b$. Find $a+b$.

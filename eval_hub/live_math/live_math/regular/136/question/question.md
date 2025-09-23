@@ -1,0 +1,1 @@
+There are two horizontal lines that cut the graph of the function $p(x)=x^3-2x^2-3x+5$ at three points that determine two consecutive segments of lengths, one three times the other. One of them is $y=5$ and the other is $y=a/b$ where $a/b$ is irreducible fraction with $a,b$ integers. Find the real number $|a|+|b|$.

@@ -1,0 +1,3 @@
+We know that in any triangle the barycentre $M$, the circumcentre $O$, the orthocentre $H$ and the centre of the 9 points circle $O_9$ lie on the same line (Euler line). Moreover, they lie in the order $O$, $M$, $O_9$, $H$ and satisfy $OM = 2MO_9$ and $HO = 2 HO_9$. This means that 
+ $$ OH = 2\cdot OO_9 = 2\cdot (3/2 \cdot OM) = 3OM. $$
+Hence in the situation from the problem we have $OH = 3\cdot 34 = 102$.

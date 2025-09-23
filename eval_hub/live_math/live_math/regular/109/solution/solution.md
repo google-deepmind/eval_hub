@@ -1,0 +1,1 @@
+Only perfect squares have an odd number of divisors. Therefore these are the only options. Under 1000 there are only 31 of them and we can exclude all squares of primes because they have 3 divisors. Then we are left with only a few numbers to check.

@@ -1,0 +1,1 @@
+Let $d$ be the lowest proper divisor of $n$ so $d$ and $242d$ are divisors of $n$. Since $242$ is a divisor of $n$ we have that $2$ divides to $n$ so necessarily $d=2$. We conclude that $n=242 \cdot 2^2= 968$ and we are done.

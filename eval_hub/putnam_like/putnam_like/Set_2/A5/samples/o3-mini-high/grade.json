@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 3,
+    "comment": "The idea of using a Sylow Theorems is correct. Showing that the unique Sylow subgroup is normal requires a reference to specific theorem. Moreover, is is not obvious that H and [G,G] has only one common element.",
+    "types_of_mistakes": "6,7,11"
+}

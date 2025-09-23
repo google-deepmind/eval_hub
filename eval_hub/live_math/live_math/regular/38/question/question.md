@@ -1,0 +1,1 @@
+We have $25$ boxes with coins. We know that there are $18$ boxes with $2$ or more coins, $14$ boxes with $3$ or more coins, $9$ boxes with $4$ or more coins and there are exactly $2$ boxes with $5$ coins. We know that there are no more than $5$ coins in any box. Calculate the total amount of coins in the boxes.

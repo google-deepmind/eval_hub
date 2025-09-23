@@ -1,0 +1,1 @@
+The picture shows a 4x16 chessboard and a 1x4 tile. The board is to be completely covered by these tiles, which can be placed vertically or horizontally, without any overlap or tiles extending beyond the board. How many ways are there to do this?

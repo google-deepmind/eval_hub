@@ -1,0 +1,1 @@
+Find the number of quintuples of nonnegative integers $(a,b,c,d,e)$ such that $a$, $b$, $c$, $d$, $e$ are all smaller than $7649$, but both numbers $a+b+c+d+e$ and $abcde+9467$ are divisible by $7649$.

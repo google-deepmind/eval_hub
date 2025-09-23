@@ -1,0 +1,1 @@
+A set of points that are closest to the side AB is an isosceles trapezoid, with bases of length $|AB|$ and $|AB|-|AD|$. The height of the trapezoid is $\frac{|AD|}{2}$. Then observe the ratio between the area of the trapezoid and the area of the rectangle, which is equal to the probability from the problem statement.

@@ -1,0 +1,1 @@
+Let $ABC$ be a triangle such that $AB=11$ and $AC=17$. Calculate $a=BC$ knowing that $a$ and $r \cdot R$ are positive integers, where $r$ and $R$ denote the inradius and the circumradius respectively.

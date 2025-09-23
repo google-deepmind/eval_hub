@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 1,
+    "comment": "The model gives only a sketch of the proof of the inclusion Y \\subset (0,c^3)",
+    "types_of_mistakes": "10"
+}

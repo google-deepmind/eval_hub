@@ -1,0 +1,1 @@
+How many kings can we put on the squares of an $315\times 513$ chessboard so that no two of them attack each other?

@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 0,
+    "comment": "The solution is wrong - the proposed sequence z_n -> infty and if \\varphi is not bounded, the thesis may not hold. The proof works only for bounded functions.",
+    "types_of_mistakes": "9"
+}

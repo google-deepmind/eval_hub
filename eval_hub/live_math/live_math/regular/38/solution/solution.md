@@ -1,0 +1,1 @@
+It is clear that there are $7$ boxes with $1$ coin, $4$ boxes with $2$ coins, $5$ boxes with $3$ coins, $7$ boxes with $4$ coins and $2$ boxes with $5$ coins. Hence, there are $7 \cdot 1 + 4 \cdot 2 +5 \cdot 3 + 7 \cdot 4 +2 \cdot 5=68$ coins.

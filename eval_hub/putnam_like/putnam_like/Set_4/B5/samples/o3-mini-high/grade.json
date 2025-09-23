@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o3",
+    "grade": 6,
+    "comment": "The proof that $f$ is an involution uses its injectivity which is proved using the involution property. The fact that $V$ is a sum of $V_- $and $V_+$ should be proved or referenced. ",
+    "types_of_mistakes": "4,6,11"
+}

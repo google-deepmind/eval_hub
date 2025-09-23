@@ -1,0 +1,1 @@
+Kate is trying to save some money. She already has $n$ dollars in the jar. On the 1st day she added 5 dollars there, and during next consecutive days she was always adding one more dollar than the day before. At the same time, every day she was taking out 10 dollars. Determine the smallest $n$ with the property that the jar will never be empty.

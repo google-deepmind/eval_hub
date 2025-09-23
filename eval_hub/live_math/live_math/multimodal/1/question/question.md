@@ -1,0 +1,1 @@
+We say there is a path from point $x$ to point $y$ if we can get from point $x$ to point $y$ only using arrows in the forward direction. We want to order points in the picture such that if point $x$ is smaller than point $y$, then there does not exist a path from $y$ to $x$. How many such orderings exist for the points from the picture?

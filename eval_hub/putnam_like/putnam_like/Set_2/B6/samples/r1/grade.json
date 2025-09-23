@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 0,
+    "comment": "The model made a slight transformation of the right-hand side of the equation and subsequently asserted that the identity is easily solvable, which is not the case.",
+    "types_of_mistakes": "5,7,11"
+}

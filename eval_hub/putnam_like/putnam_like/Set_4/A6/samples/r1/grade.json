@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 0,
+    "comment": "There is no solution at all, only some heuristic/asymtotic considerations.",
+    "types_of_mistakes": "2,11"
+}

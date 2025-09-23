@@ -1,0 +1,3 @@
+Consider an equilateral triangle $ABC$ with side length $4$ and let $M$ be
+the middle point of $BC$. Consider circles with the same radii, all are centered at some point on $AM$ , and tangent to each other, such that the first circle is also tangent to
+$AB$ and $AC$ and the last one is tangent to $BC$ at point $M$. Radius of each circle is $2\sqrt{3}/217$. What is the number of circles with center on the line $AM$?

@@ -1,0 +1,1 @@
+Let $abcd$ be the first one. Then it is clear that $ab=17$ so we have $17cd+17c+7c+7=2024$ which is equivalent to $1947+cd+2c=2024$ and we obtain $c=6$ and $d=5$. Hence $abcd=1765$ and we are done.

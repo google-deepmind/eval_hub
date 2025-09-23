@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "o4",
+    "grade": 2,
+    "comment": "The model uses an expansion for the upper incomplete Gamma\u2010function, which is not well-known. Actually, this formula can be derived as a consequence of the solution to this problem. ",
+    "types_of_mistakes": "11"
+}

@@ -1,0 +1,1 @@
+Notice that if a positive integer $d$ divides $a_n$ and $a_{n+1}$ then $d | a_{n+1}-a_n=2n+4=c_n$ and $d| 2 a_n-n c_n=2n+10=d_n$ so $d|d_n-c_n=6$. Since $a_n=n(n+3)+5$ is clearly an odd number for any $n$, we obtain that necessarily $d | 3$. Notice that $a_1=9$ and $a_2=15$ satisfy $GCD(a_1,a_2)=3$ so this is the maximum value that can be obtained.

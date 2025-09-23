@@ -1,0 +1,2 @@
+ Let $m,$ $n$ be positive integers. Given $n$ boxes numbered $1, 2, \ldots,n$. Each box contains $k$ balls with number $k$ for $k=1,2,\ldots,m$. One draws a ball from the first box and put it into the second. Then draws a ball from the second box and put it into the third, and so on. Finally, one draws a ball from the $n$-th box, check the number on it and write it down. For which $m$ expected value of the written number is an integer?
+ 

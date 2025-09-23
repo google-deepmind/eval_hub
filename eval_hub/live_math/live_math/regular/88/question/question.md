@@ -1,0 +1,1 @@
+Consider the equation $x^2-y^2=a$ for some positive integer $a$. Find the lowest value of $a$ such that the equation has exactly $8$ integer solutions for $(x,y)$.

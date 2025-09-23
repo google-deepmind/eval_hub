@@ -1,0 +1,1 @@
+Notice that $LCM(1,2,\ldots,15)=2^3 \cdot 3^2 \cdot 5 \cdot 7 \cdot 11 \cdot 13=360360$ so the number is $360360 \cdot 3=1081080$.

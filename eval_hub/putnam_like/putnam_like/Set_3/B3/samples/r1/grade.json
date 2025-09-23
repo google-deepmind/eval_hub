@@ -1,0 +1,6 @@
+{
+    "reviewer_id": "r1",
+    "grade": 6,
+    "comment": "In the computations of the integrals (after integration by parts) tha behavior close to $x=0$ should be studied. In the second integral one can not pply the proposed substitution $u=\\frac{1}{2x-1}$ at $x=1/2$.",
+    "types_of_mistakes": "11"
+}
