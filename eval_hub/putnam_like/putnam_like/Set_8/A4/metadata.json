@@ -1,5 +1,6 @@
 {
     "EXPERT": "Mateusz Topolewski",
     "MAXIMAL_SCORE_GIVEN_FINAL_ANSWER": 8.0,
-    "CANARY_ID": "putnam_like:20250718:cf26a6f7-ea78-40c8-a96f-cb5d46f38fb2"
+    "CANARY_ID": "putnam_like:20250718:cf26a6f7-ea78-40c8-a96f-cb5d46f38fb2",
+    "CATEGORY": "probability"
 }
