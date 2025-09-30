@@ -1,5 +1,6 @@
 {
     "EXPERT": "Bartosz Bieganowski",
     "MAXIMAL_SCORE_GIVEN_FINAL_ANSWER": 8.0,
-    "CANARY_ID": "putnam_like:20250718:6d1a758a-d4b2-4e8a-9db7-2916fe4a14d5"
+    "CANARY_ID": "putnam_like:20250718:6d1a758a-d4b2-4e8a-9db7-2916fe4a14d5",
+    "CATEGORY": "analysis"
 }

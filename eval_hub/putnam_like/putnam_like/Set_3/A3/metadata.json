@@ -1,5 +1,6 @@
 {
     "EXPERT": "Daniel Strzelecki",
     "MAXIMAL_SCORE_GIVEN_FINAL_ANSWER": 10.0,
-    "CANARY_ID": "putnam_like:20250718:68750486-a275-4e40-a23d-baf0ed0a0cd6"
+    "CANARY_ID": "putnam_like:20250718:68750486-a275-4e40-a23d-baf0ed0a0cd6",
+    "CATEGORY": "probability"
 }

@@ -1,5 +1,6 @@
 {
     "EXPERT": "Bartosz Bieganowski",
     "MAXIMAL_SCORE_GIVEN_FINAL_ANSWER": 2.0,
-    "CANARY_ID": "putnam_like:20250718:b67a214a-3d69-4aa8-82e0-3b44bc787553"
+    "CANARY_ID": "putnam_like:20250718:b67a214a-3d69-4aa8-82e0-3b44bc787553",
+    "CATEGORY": "number theory"
 }
