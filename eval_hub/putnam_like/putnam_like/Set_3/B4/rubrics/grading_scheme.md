@@ -49,10 +49,10 @@ Hence the only pair that could satisfy the condition is $(\alpha,\beta)=(\frac 5
 This step is worth 3 points.
 Let $N$ be an integer in $[N_n,N_{n+1}]$ i.e. $N=N_n+m$. Then
 $$
-b_N=\frac{\sum_{k=1}^{N_n} \frac{k(k+1)(2k+1)}6+1+2+\ldots+m}{(N_n+m)^{\alpha}}
+b_N=\frac{b_{N_n}\cdot N_n^\alpha +1+2+\ldots+m}{(N_n+m)^{\alpha}}
 $$
 and we estimate
 $$
-b_{N_n}\cdot\frac{N_n^{\alpha}}{N_{n+1}^{\alpha}}=\frac{\sum_{k=1}^{N_n} \frac{k(k+1)(2k+1)}6}{N_{n+1}^{\alpha}}<b_N<\frac{\sum_{k=1}^{N_{n+1}} \frac{k(k+1)(2k+1)}6}{N_n^{\alpha}}=b_{N_{n+1}}\cdot\frac{N_{n+1}^{\alpha}}{N_{n}^{\alpha}}.
+b_{N_n}\cdot\frac{N_n^{\alpha}}{N_{n+1}^{\alpha}}<b_N<b_{N_{n+1}}\cdot\frac{N_{n+1}^{\alpha}}{N_{n}^{\alpha}}.
 $$
-Since $\lim_{n\to\infty} \frac{N_n}{N_{n+1}}=1$ by the squeeze theorem we get $\lim_{N\to\infty}b_N=\beta$.
+Since $\lim_{n\to\infty} \frac{N_n}{N_{n+1}}=1$, by the squeeze theorem we get $\lim_{N\to\infty}b_N=\beta$.
