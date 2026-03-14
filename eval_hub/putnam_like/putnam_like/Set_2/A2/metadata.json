@@ -1,5 +1,6 @@
 {
     "EXPERT": "Robert Skiba",
     "MAXIMAL_SCORE_GIVEN_FINAL_ANSWER": null,
-    "CANARY_ID": "putnam_like:20250718:69b54d21-c6c5-4f4d-98cb-42ff22dd006c"
+    "CANARY_ID": "putnam_like:20250718:69b54d21-c6c5-4f4d-98cb-42ff22dd006c",
+    "CATEGORY": "analysis"
 }

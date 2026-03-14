@@ -1,5 +1,6 @@
 {
     "EXPERT": "Robert Skiba",
     "MAXIMAL_SCORE_GIVEN_FINAL_ANSWER": null,
-    "CANARY_ID": "putnam_like:20250718:dbc2a74c-34c0-4234-92f9-9a151cb87b68"
+    "CANARY_ID": "putnam_like:20250718:dbc2a74c-34c0-4234-92f9-9a151cb87b68",
+    "CATEGORY": "number theory"
 }

@@ -1,5 +1,6 @@
 {
     "EXPERT": "Robert Skiba",
     "MAXIMAL_SCORE_GIVEN_FINAL_ANSWER": 10.0,
-    "CANARY_ID": "putnam_like:20250718:a96512a8-5ba7-448c-9aca-a253fbaa5f9d"
+    "CANARY_ID": "putnam_like:20250718:a96512a8-5ba7-448c-9aca-a253fbaa5f9d",
+    "CATEGORY": "linear algebra"
 }

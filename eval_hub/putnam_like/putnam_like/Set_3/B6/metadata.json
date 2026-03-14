@@ -1,5 +1,6 @@
 {
     "EXPERT": "Daniel Strzelecki",
     "MAXIMAL_SCORE_GIVEN_FINAL_ANSWER": null,
-    "CANARY_ID": "putnam_like:20250718:340dfc66-a8e1-4aa0-9adc-0264160d1330"
+    "CANARY_ID": "putnam_like:20250718:340dfc66-a8e1-4aa0-9adc-0264160d1330",
+    "CATEGORY": "linear algebra"
 }

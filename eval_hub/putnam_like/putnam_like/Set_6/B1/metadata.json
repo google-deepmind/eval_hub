@@ -1,5 +1,6 @@
 {
     "EXPERT": "Mateusz Topolewski",
     "MAXIMAL_SCORE_GIVEN_FINAL_ANSWER": 10.0,
-    "CANARY_ID": "putnam_like:20250718:c29a1e61-edd2-497d-9d6e-d065a6fc2918"
+    "CANARY_ID": "putnam_like:20250718:c29a1e61-edd2-497d-9d6e-d065a6fc2918",
+    "CATEGORY": "discrete mathematics"
 }
