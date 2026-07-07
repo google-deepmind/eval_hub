@@ -456,7 +456,7 @@ def main(argv: Sequence[str]) -> None:
 
       row[f'gemini_parsed_answer_{sample_idx}'] = res['parsed_answer']
       row[f'gemini_raw_answer_{sample_idx}'] = res['raw_answer']
-      row[f'is_correct_{sample_idx}'] = is_correct
+      row[f'is_correct_{sample_idx}'] = is_correct  # pyrefly: ignore[unsupported-operation]
 
     row['samples_generated'] = successful_samples
     row['pass_rate'] = (
