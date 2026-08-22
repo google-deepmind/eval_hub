@@ -14,8 +14,8 @@
 
 r"""A basic example script to run evaluation on MRCR V2.
 
-This file also includes the mrcr_v2_metric function to compute the
-score for the MRCR V2 task per example.
+This file also includes metric functions to compute the score for the MRCR V2
+task per example.
 """
 
 import difflib
@@ -32,15 +32,13 @@ OUTPUT_PATH = "results.csv"
 
 
 def mrcr_v2_metric(prediction: str, target: str) -> float:
-  """Computes the MRCR V2 metric.
+  """Computes the default MRCR V2 metric.
 
   This metric uses difflib SequenceMatcher to compute a notion of approximate
   edit distance between the target reference and the model's output, scaled
   to lie within [0, 1]. 1 is a perfect match, 0 is a non-match. Additionally,
   the metric score is 0 if the random string is not the first 12 characters of
-  the output (after stripping whitespace). For outputs where there are multiple
-  matches of the random string, we keep only the last one and only consider the
-  substring of the output following this last match.
+  the output (after stripping whitespace).
 
   Args:
     prediction: The model's output.
@@ -62,16 +60,44 @@ def mrcr_v2_metric(prediction: str, target: str) -> float:
   target_ref = target[12:].strip()
   prediction = prediction.strip()
 
-  # Find the *last* instance of the random hash in the prediction
-  start_index = prediction.rfind(random_hash)
+  if not prediction.startswith(random_hash):
+    return 0.0
 
+  prediction_content = prediction[12:].strip()
+  d = difflib.SequenceMatcher(a=target_ref, b=prediction_content)
+  return d.ratio()
+
+
+def mrcr_v2_metric_lenient(prediction: str, target: str) -> float:
+  """Computes a lenient MRCR V2 metric that allows text before the hash.
+
+  If the random hash occurs more than once, only the content after its last
+  occurrence is scored. This preserves the previous public scorer behavior.
+
+  Args:
+    prediction: The model's output.
+    target: The target output. Note that it contains the random hash string as a
+      prefix.
+
+  Returns:
+    The lenient MRCR V2 metric score contained in the interval [0, 1].
+  """
+  if not isinstance(prediction, str) or not prediction:
+    return 0.0
+
+  target = target.strip()
+  if len(target) < 12:
+    return 0.0
+
+  random_hash = target[:12]
+  target_ref = target[12:].strip()
+  prediction = prediction.strip()
+
+  start_index = prediction.rfind(random_hash)
   if start_index == -1:
     return 0.0
 
-  # Extract content immediately following the last hash
-  # start_index + 12 skips past the hash itself.
   prediction_content = prediction[start_index + 12 :].strip()
-
   d = difflib.SequenceMatcher(a=target_ref, b=prediction_content)
   return d.ratio()
 
