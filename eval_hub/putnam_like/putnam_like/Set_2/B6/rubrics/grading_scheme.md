@@ -1,11 +1,11 @@
 Solution step (worth 2 points):
 Let $f: (0,\infty)\to \mathbb{R}$ and $g: (0,\infty)\to \mathbb{R}$ be defined by
 $$
-f(t)=\int_0^{\infty}\frac{e^{-tx}}{1+x^2}dx \;\;\text{ and }\;\;g(t)=\int_0^{\infty}\frac{\cos x}{t+x}dx.
+f(t)=\int_0^{\infty}\frac{e^{-tx}}{1+x^2}dx \;\;\text{ and }\;\;g(t)=\int_0^{\infty}\frac{\sin x}{t+x}dx.
 $$
 Then
 $$
-f(2)=\int_0^{\infty}\frac{e^{-2x}}{1+x^2}dx\;\; \text{ and }\;\;g(2)=\int_0^{\infty}\frac{\cos x}{2+x}dx.
+f(2)=\int_0^{\infty}\frac{e^{-2x}}{1+x^2}dx\;\; \text{ and }\;\;g(2)=\int_0^{\infty}\frac{\sin x}{2+x}dx.
 $$
 We will show that $f(t)-g(t)\equiv 0$,  meaning that it is identically zero (i.e., a constant function).
 
@@ -36,11 +36,11 @@ $$
 
 On the other hand, the first and second derivatives of the function $g(t)$ are expressed as follows:
 $$
-g'(t)=\frac{d}{dt}\int_0^{\infty}\frac{\cos x}{t+x}dx=-\int_0^{\infty}\frac{\cos x}{(t+x)^2}dx.
+g'(t)=\frac{d}{dt}\int_0^{\infty}\frac{\sin x}{t+x}dx=-\int_0^{\infty}\frac{\sin x}{(t+x)^2}dx.
 $$
 We have
 $$
-0\leq \left|\int_0^{\infty}\frac{\cos x}{(t+x)^2}dx\right|\leq \int_0^{\infty}\frac{1}{(t+x)^2}dx=-\left.\frac{1}{t+x}\right|_0^{\infty}=\frac{1}{t}.
+0\leq \left|\int_0^{\infty}\frac{\sin x}{(t+x)^2}dx\right|\leq \int_0^{\infty}\frac{1}{(t+x)^2}dx=-\left.\frac{1}{t+x}\right|_0^{\infty}=\frac{1}{t}.
 $$
 Hence, we obtain that
 $$
@@ -49,23 +49,24 @@ $$
 Furthermore, we have
 $$
 \begin{aligned}
-g''(t)&=2\int_0^{\infty}\frac{\cos x}{(t+x)^3}dx=\left.-\frac{\cos x}{(t+x)^2}\right|_0^{\infty}-\int_0^{\infty}\frac{\sin x}{(t+x)^2}dx=\\
-&=\frac{1}{t}-\int_0^{\infty}\frac{\sin x}{(t+x)^2}dx=\\
-&=\frac{1}{t}-\left(\left.-\frac{\sin x}{t+x}\right|_0^{\infty}+\int_0^{\infty}\frac{\cos x}{t+x}dx\right)=\\
-&=\frac{1}{t}-\int_0^{\infty}\frac{\cos x}{t+x}dx=\frac{1}{t}-g(t).
+g''(t)&=2\int_0^{\infty}\frac{\sin x}{(t+x)^3}dx=\left.-\frac{\sin x}{(t+x)^2}\right|_0^{\infty}+\int_0^{\infty}\frac{\cos x}{(t+x)^2}dx=\\
+&=\int_0^{\infty}\frac{\cos x}{(t+x)^2}dx=\\
+&=\left.-\frac{\cos x}{t+x}\right|_0^{\infty}-\int_0^{\infty}\frac{\sin x}{t+x}dx=\\
+&=\frac{1}{t}-\int_0^{\infty}\frac{\sin x}{t+x}dx=\frac{1}{t}-g(t).
 \end{aligned}
 $$
 
 Solution step (worth 2 points):
 Since
 $$
-(f(t)-g(t))''-(f(t)-g(t))=0,
+(f(t)-g(t))''+(f(t)-g(t))=0,
 $$
 it follows that the function $f(t)-g(t)$ is a solution of the linear differential equation:
 $$
-y''(t)-y(t)=0.
+y''(t)+y(t)=0.
 $$
-On the other hand, the general solution $y(t)$ of the equation $y''(t)-y(t)=0$ has the form:
+On the other hand, the general solution $y(t)$ of the equation
+$y''(t)+y(t)=0$ has the form:
 $$
 y(t)=A\cos(t)+B\sin(t).
 $$

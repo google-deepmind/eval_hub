@@ -21,8 +21,8 @@ $$
 This step is worth 5 points.
 Doing standard calculations we see that:
 * $-C = (\alpha\beta\gamma)^2=c^2$,
-* $-A = (\alpha+\beta+\gamma)^2 - 2(\alpha\beta+\beta\gamma+\alpha\gamma) = a^2+2b$,
+* $-A = (\alpha+\beta+\gamma)^2 - 2(\alpha\beta+\beta\gamma+\alpha\gamma) = a^2-2b$,
 * $B = (\alpha\beta+\beta\gamma+\alpha\gamma)^2-2\alpha\beta\gamma(\alpha+\beta+\gamma) = b^2-2ac$.
 
 This step is worth 1 point.
-Answer: $x^3-(a^2+2b)x^2 + (b^2-2ac)x -c^2 = 0$.
+Answer: $x^3-(a^2-2b)x^2 + (b^2-2ac)x -c^2 = 0$.
