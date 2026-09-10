@@ -167,7 +167,14 @@ def grade_gemini_sample(
   )
   output_path = sample_path.parent / output_filename
 
-  if output_path.exists():
+  existing_grade_pattern = re.compile(
+      rf"^grade_{re.escape(FLAGS.model_name)}_"
+      rf"\d{{8}}-\d{{6}}_{re.escape(sample_path.stem)}\.json$"
+  )
+  if any(
+      existing_grade_pattern.fullmatch(path.name)
+      for path in sample_path.parent.glob("grade_*.json")
+  ):
     return "SKIPPED", None, None
 
   logging.info(
