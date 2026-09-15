@@ -1,5 +1,6 @@
 {
     "EXPERT": "Mateusz Topolewski",
     "MAXIMAL_SCORE_GIVEN_FINAL_ANSWER": 10.0,
-    "CANARY_ID": "putnam_like:20250718:8ffc318b-b431-4a5f-aee5-0a5ecfc68f7f"
+    "CANARY_ID": "putnam_like:20250718:8ffc318b-b431-4a5f-aee5-0a5ecfc68f7f",
+    "CATEGORY": "linear algebra"
 }
