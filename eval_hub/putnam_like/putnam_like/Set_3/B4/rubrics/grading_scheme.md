@@ -55,4 +55,4 @@ and we estimate
 $$
 b_{N_n}\cdot\frac{N_n^{\alpha}}{N_{n+1}^{\alpha}}<b_N<b_{N_{n+1}}\cdot\frac{N_{n+1}^{\alpha}}{N_{n}^{\alpha}}.
 $$
-Since $\lim_{n\to\infty} \frac{N_n}{N_{n+1}}=1$ by the squeeze theorem we get $\lim_{N\to\infty}b_N=\beta$.
+Since $\lim_{n\to\infty} \frac{N_n}{N_{n+1}}=1$, by the squeeze theorem we get $\lim_{N\to\infty}b_N=\beta$.
